@@ -1,0 +1,811 @@
+﻿ID	TITLE	COMMENT	RATING	SENTIMEN
+1611	Banyak kekurangan	Tidak seperti di iphone menunya kurang, jadwal sepak bola tanggalnya 2013... Perbaiki lagi	1	Negative
+1612	Need update!	Kurang bersahabat ama VoiceOver nih. Semoga hal ini bisa menjadi perhatian pada update berikutnya. Sekalian dong tambahin menu buat contact developer nya.	4	Negative
+1613	Baru seperti ini sudah puas?	Hampir setahun belum ada update, UI tidak ada perkembangan (apalagi fitur tambahan), crash tidak ada perbaikan. Rate 1 star dan uninstall.	1	Negative
+1614	Crash melulu	Mohon appnya diperbaiki.. Crashnya ga ketolongan..	1	Negative
+1615	Sampah	Aplikasi sampah, crash mulu,errorny banyak,ga dibenerin lagi	1	Negative
+1616	Selaras	Untuk memuat berita yg tak berbobot, dibutuhkan user interface yg murahan juga. Sangat selaras.	1	Negative
+1617	Crash!	Sekarang crash melulu kerjaannya... Fix this please!	1	Negative
+1618	Kepotong	Kenapa selalu berita terpotong?untuk iPad,iPhone,ataupun Blackberry?dan kita harus browsing?lalu untuk apa aplikasi ini?	1	Negative
+1619	Majalah digital indo terbaik	Thanks for making this great ebook for indonesian, keep it up detik!!	5	Positive
+1620	Full of bug	Bagus sayang buggy gk ketulungan	2	Negative
+1621	Bagus	thank ya udah ada yg versi ipad.... Hehheheheheh	5	Positive
+1622	Detik bola	Kok detikbola ga ada di detik for ipad ?	5	Negative
+1624	Aplikasi yg bermanfaat	Asslamuallaikum, sebenarnya aplikasi ini bagus banget dan bermanfaat secara keseluruhan sudah baik tapi masih ada beberapa hal yg bisa di perbaiki contohnya setiap akan mendownload audio selalu crash..dan ukuran huruf tidak bisa di perbesar dengan cara di pinch..mdh2an ke depannya bisa diperbaiki bug tsb..semoga seluruh tim senantiasa diberikan kesehatan dan ke ikhlaskan untuk selalu berbuat yg bermanfaat untuk ummat..terima kasih.wassalamulalikum	4	Positive
+1625	Tambah tajwid	Assalamuallaikum, subhanallah aplikasinya sangat bermanfaat sekali. Semoga bisa di tambah tajwid berwarna sehingga yang ingin belajar tajwid bisa lebih mudah mengerti..semoga  semua anggota tim diterima amal dan ibadahnya.terima kasih.wassallam	5	Positive
+1626	Khataman bagian akhir	Alhamdulillah. Update aplikasi quranesia semakin memudahkan baik Simbol simbol dan khataman. Hanya ada sedikit masalah pada khataman, untuk bagian terakhir langsung ditandai selesai walau belum dibaca. Kemudian ada ayat yang kurang pada surat 54:20. Jazakallah developer.	4	Positive
+1628	Excellent app..! Bagus banget...!	Alhamdulillah aplikasi ini sangat memudahkan penggunanya dengan fitur-fiturnya. Semoga diberkahi Alloh SWT.	5	Positive
+1629	Excellent	Semoga Berkah dan Barrakah	5	Neutral
+1630	Semoga jadi amal ibadah	Untuk penulis+keluarga	5	Neutral
+1631	Jazakallah khair	Terimakasih bang Triadi, aplikasinya mantap, sesuai harapan saya.Alhamdulillah. Tapi di iOS 8.2, kalo udah mulai streaming, app nya crash. Udah butuh update kayanya. Salaam.	5	Positive
+1632	Cool	Silahkan di download, ga akan nyesel	5	Neutral
+1633	????????	Sumpah ini apps paling nyaman yang pernah ane temuin, ane selalu doain ente supaya sehat selalu??	5	Positive
+1634	Wajib Download	Secara grafis menarik dan mudah dimengerti. Fitur di dalamnya juga lengkap. Sesuai dengan kebutuhan. Mungkin bisa ditambahkan feature tajwid ke depannya. Terima kasih kepada pengembang.	5	Positive
+1635	mantep	sesuai kebutuhan. saya browsing dulu buat nemu aplikasi ini dan ternyata tidak mengecawakan. sayangnya tidak banyak orang yang tahu. thanks ya	4	Positive
+1637	Terima kasih	Subhanallah semoga diberikan ganjaran yang setimpal bagi pembuat serta keluarganya. Amin	5	Positive
+1638	Sangat bagus	"Mudah di gunakan,
+Terjemahan Bahasa indonesia,
+Ada audionya juga
+
+Aplikasi Al-Qur&#39;an terbaik yang pernah saya install"	5	Positive
+1639	Perfect	"Sebelumnya saya ucapkan makasih banyak..semoga anda mendapat pahala yg melimpah sudah membuat Alquran ini..
+Review saya ini aplikasi udah bagus banget dr segi tampilannya..tp setiap saya download suara alqurannya masih mental om..trus kalo bsa lagi di baca plus suaranya bikin otomatis jalan atau mengulang om..mksh ya om sebelumnya.."	5	Positive
+1640	Subhanallah	Semoga berkah.. ????	5	Positive
+1641	Aplikasi yang sangat cantik, usefull	Selain tampilan yang bagus, mohon agar dibuat versi iPad nya. Terima kasih	5	Positive
+1643	TOP	"Assalamualaikum
+Terimakasih banyak mas atas aplikasinya 
+Semoga barakah buat anda dan keluarga 
+Menjadi tabungan akhirat kelak 
+Aamiin"	5	Positive
+1644	selalu crash!!!	selalu crash setiap mau mencari kata!! jangan update ke versi ini!!!	1	Negative
+1645	Great!	Thank you for making this ??	5	Positive
+1646	Keren, tapi..	ini appnya udah bagus dan keren sih kak, tapi sayang karena tampilang agak kurang cocok dengan ios 7+	5	Positive
+1647	KBBI yg sangat membantu !! :)	KBBI ini sangat cepat dan membantu dalam pelajaran. This KBBI better than the blue one. :)	5	Positive
+1648	Great apps	"Keren bro. Membantu dalam proses belajar mengajar
+
+Thank you. It&#39;s help us on teaching."	5	Positive
+1649	Sangat Memuaskan	Benar - benar aplikasi yang saya cari. Selain itu dengan aplikasi ini saya tidak perlu online untuk membuka situs KBBI atau membuka kamus bahasa indonesia yang relatif berukuran besar, sangat - sangat bermanfaat bagi saya. Terimakasih	5	Positive
+1650	Istimewa	Aplikasi luar biasa. Patut dimilki orang indonesia. Jadi gak perlu kamus tebel nih.	5	Positive
+1651	Bagus	Bagus sekali!	5	Positive
+1652	Ios 5.1.1	Yah.. Ga ada versi utk ios 5.1.1 ya???	1	Neutral
+1653	Bug?	"Klo belum pernah bookmarks trus buka list bookmarks gak ada tombol utk balik lagi ke halaman pencarian. 
+
+All in all, good app."	3	Neutral
+1654	Terimakasih!	Sangat membantu, terimakasih banyak!	4	Positive
+1655	Hebat	Aplikasi bahasa Indonesia yang amat membantu dalam kebutuhan mengolah kata dalam berita, syukron Yufid	5	Positive
+1656	Mantap Gan..	"Apps nya membantu banget.. Dikembangkan terus gan...
+:sundul"	5	Positive
+1659	Kbbi	Mantap! Thanks	5	Positive
+1661	good job	sangat membantu saya dalam perkuliahan :)	5	Positive
+1662	*****	Ngebantu bgt! Dan ini geratissss hehe	5	Positive
+1663	Bagus	Sangat banyak membantu	5	Positive
+1664	Thanks	Terimakasih diberikan gratis mengunduh KBBI	4	Positive
+1748	Layar hitam	Kenapa versi terbarunya sering layar hitam/hang?	2	Negative
+1749	Sering Error	Sering eror, tiba-tiba engga bisa dibuka, dan layar nya hitam. Setelah di delete app nya kemudian di download kembali, baru bisa deh. Tapi eror nya terus menerus. Jadi delete forever aja.	1	Negative
+1750	Blank screen on iOS9	Tidak bisa dibuka dengan iOS9.	1	Negative
+1752	Cool	Videonya keren2 dan desainnya jadi mudah	5	Positive
+1753	Crash	Kok malah error sih, padahal udah pake setahun begitu update di ios 9 malah nge blank,, poor..!! Not recommended!!	1	Negative
+1754	Di update makin error	"Setelah di update kompas terbaru malah keluar layar hitam dan beberapa detik langsung crash, dan sampai skrg tidak bisa dibuka lagi.
+Fyi: iOs 9+ iPhone 6"	1	Negative
+1757	Appnya bagus..up to date	Mohon ditambahkan fitur bookmark ya,agar bisa menyimpan artikel..itu saja,sisanya sangat bagus dan terupdate!!	4	Positive
+1759	bugs	benerin donk admin, ane di UK gak bisa cek berita Indonesia neh..	1	Negative
+1762	Ads	Setiap membaca berita di aplikasi anda,iklan selalu menutupi sebagian besar tulisan di berita dan sulit untuk ditutup. Iklan tidak diletakan ditempat lain yg masih bisa dilihat tapi tidak mengganggu pengguna aplikasi anda membaca berita..Ini aplikasi membaca berita atau tempat iklan??	1	Negative
+1765	Penempatan iklan-nya sangat bodoh!!!!	Iklan yang ada di berita menutupi isi berita dan tidak ada tombol untuk menutup iklan tersebut jadi beritanya tak dapat dibaca semua. Sebaiknya iklannya dibawah judul sebelum isi berita atau di bawah berita!	1	Negative
+1766	Gak bs liat komen	Sehabis update malah g bs liat komen neh.	4	Negative
+1767	Crashed terus	"Appsnya crashed terus 
+Tidak bisa isi komen 
+Saya pakai iOS 7.06"	2	Negative
+1768	Bug ios 7	Udah bagus sih update buat ios 7, tapi bugnya masih banyak dari daftar nggak bisa, halaman yang masih kemana mana ya gitu aja deh, tapi kerja bagus top deh kompas	3	Negative
+1770	Stabil dan bagus	Lancar di ios 7	5	Positive
+1771	Not too good..	"Sering Crash!!
+Standar deh.."	3	Negative
+1772	Mantap	Bacaan ku selalu	5	Neutral
+1773	Kompas appa	Mantap... I like it	5	Positive
+1774	Hangat	"Beritanya baru, dan masih hangat.
+Pertahankanlah"	4	Positive
+1775	The Best eNewspaper	I Love Kompas Newspaper with its news ever since.Nothing else can be compared in Indonesia .	5	Positive
+1776	Kompas woke	Bagus aplikasinya, navigasi nya gampang dan Lancar jaya. Bravo kompas	5	Positive
+1778	Relevant and Dependable	Update beritanya bagus dan bisa diertanggungjawabkan akurasinya, khas Kompas. Fitur2nya ok dan stanil	5	Positive
+1781	Good!	Bagus jg tapi harus terus di update.	5	Positive
+1783	Kompas te o pe be ge te	Sangat membantu kaum awam yg haus berita	5	Positive
+1784	Lumayan	Beritanya gak sebanyak tetangga sebelah	4	Negative
+1785	Bagus	Suka karena tampilan lebih simple	4	Positive
+1786	Good	Informatif	4	Positive
+1788	Great apps	This is the best to read the news	5	Positive
+1793	iklan satu page full nya... sangat mengganggu	"versi sebelumnya lebih baik dalam mendisplay iklan, yang lain makin oke...;("	1	Negative
+1794	Ngga bisa back	"Kok setelah update yg terakhir malah jadi ngga nyaman ya?
+
+Setelah masuk ke satu berita jadi susah balik ke halaman sebelumnya. Tombol back di pojok kiri atas suka ngilang. Kadang ada tapi lebih sering ilangnya. 
+
+Mana pop up iklannya ganggu banget. Iklan masukin di time line aja ngga usah pake pop up."	1	Negative
+1795	Well done, kompascom!	"Update yg baru lbh sleek. Ada fitur notifikasi, swipe berita, dan bisa lihat comment juga. Nice improvement! 
+Advertisement is okay, but no pop up advertisement please :)"	5	Positive
+1798	Terlalu banyak iklan	"Buruk, iklan hampir disetiap sudut. Paling parah, sering banget ada popup iklan.
+Desain dan performa, bagus. Tapi itu semua hilang krn terlalu banyak iklan. Jadi gak nyaman"	1	Negative
+1799	Meh	Nyesel gue ngupdate sekarang ada iklannya	1	Negative
+1803	Working great on my iphone	Applikasi yang bagus untuk iphone 5.	5	Positive
+1804	Bad	Penuh bug, byk brita yg ga bs dibuka	1	Negative
+1808	Recommended!!	Interface mudah dibaca di iPh*ne.	4	Positive
+1809	Nice	Sudah bagus, tapi berita-beritanya hanya yang baru saja. Tidak bisa mengakses berita-berita yang lama.	4	Positive
+1815	Kurang	Masih sering bug... Terkadang suka keluar aplikasi sendiri... Dan terkadang artikelnya gak keluar...	2	Negative
+1816	•••••	Great!	5	Positive
+1817	Search	"Satu yg paling penting Butuh tombol search di aplikasi ini, dan berita terkait seperti di web,
+
+Agar baca beritanya terus besambung bacanya nyaman, udah habis disemua kategori berita dibaca, trus malah gak bisa cari artikel lain, jadinya malah balik buka web lagi ahh"	4	Negative
+1821	Masih ada kekurangan	Aplikasinya bagus, yang saya sukai karna aplikasinya responsif, tp ada kekirangan, belum ada kolom untuk komentar, mungkin ada yang tidak perhatikan history waktu artikelnya, yang seharusnya 12hours ago, menjadi 12 years ago	3	Positive
+1823	New design, new hope	Kompas emang mantap, selalu terdepan dalam inovasi!	4	Positive
+1824	5 stars, with 2 thumbs...	"It&#39;s just like 5 stars hotel, more comfortable... Great job!!!"	5	Positive
+1825	Nice app	Very nice app and great intuitive UI.	5	Positive
+1826	Makin Ok	Skrg sdh lebih baik dari versi sebelumnya..	3	Positive
+1827	Fantastic	Fantastic apps	5	Positive
+1828	Nice work!	Simple. Fast load. Up to date. Never crash. Really makes us easy to read the real news. If u live in Indonesia, this news app is a must	5	Positive
+1829	All fixed	All sections (kanal) have been available in the new update! I like this app and it works fast!	5	Positive
+1830	Optimized for iPhone 5	Love this new update. The fluidity is not as good as competitors, yet still a good start for reading news in Bahasa Indonesia.	5	Positive
+1831	Nice apps	Applikasi yg bagus	5	Positive
+1832	Jossss	"Maju terus mas Kompas... Kembalikan kejayaan Nusantara melalui berita&#34;mu"	5	Positive
+1833	I love Kompas	This is the place to get the latest Indonesian news. Keep up the good work ??	5	Positive
+1834	Nice	Ringan, fast, no ads, great app.. Tapi mungkin bisa kali ya kalo show more nya di tambah.. Ga hanya 14..	4	Positive
+1838	Good And sangat Baik	Aku suka karena sangat simple seperti Tempo Interaktif ,Matur Suwun Mas Kompas	5	Positive
+1840	Tampilan sederhana yang menarik	Tampilan barunya asik, berjalan mulus di iphone 3gs.	4	Positive
+1841	Tampilan menarik	Secara keseluruhan stabil dan bagus tampilannya. Sayangnya berita lama tidak bisa diakses (?)	4	Positive
+1842	Tampilan baru yg bagus	Pertama terima kasih aplikasinya telah dioptimalkan utk iPhone 5. Tampilan yg baru menjadi menarik utk berselancar di aplikasi ini. Informasi yg update mengikuti perkembangan berita. Kanal favorit saya jika membuka aplikasi berita ini adalah kanal tekno dan sepakbola.	5	Positive
+1843	??????????	Bagus sekali versi yang Ini!	5	Positive
+1844	Terimakasih	Sangat membantu, semoga kebenarannya terjamin	5	Positive
+1845	Aplikasi Majalah Detik Keren	Keren ini, pioneer majalah digital di Indonesia, kontennya bagus dan juga gratis .. Two thumb buat Detik	5	Positive
+1849	good magazine	saran, sedikit perbaiki fitur komennya supaya lebih cepat	5	Neutral
+1851	Keren...	App nya keren...tapi...link detiknet nya salah tuh Om...ngelink ke detikhot. Semangat !!!	5	Positive
+1852	keren gan	"mantab nih gan, ane suka ada majalah detik yg bs dibaca pake ipad, secara ane kan tipikal orangny simpel, via ipad ane ga perlu beli lemari buat naro majalah hardcover.. membacanya juga sudah nyaman, pilihan desainnya asik dimata.. yg awal bwt ane belum biasa itu krn gak ada halamannye hehe, tp that&#39;s fine... btw, ini majalah kesononya bakalan free kagak gan? hehe... ane tunggu inovasi2 berikutnya bwt detik. last, ane lempar cendol wal balok ijo + rate bintang maksimum bwt agan2 di majalah detik.."	5	Positive
+1854	Aplikasi majalah online indonesia pertama di ipad :)	Asik langsung baca pake ipad	5	Positive
+2002	Pelayanan	Terus tingkatkan , semoga banyak promo supaya ratting meningkat..	5	Positive
+2005	Top Up Wallet--  tolong di percepat!!	"1. Gojek Company proses waktu terlalu lama utk Top Up account. 48 jam setelah menerima uang baru muncul di Wallet.   
+Coba utk Top Up di percepat.  
+
+2. Servis dari Gojek rider cukup memuaskan.  Gojek Rider ramah dan cukup professional menanganin tugasnya!!"	3	Positive
+2007	Unable to change phone number	Unable to change phone number ,it keep saying invalid verification code after inputting pin/verification codes from SMS to new number	2	Negative
+2008	Kesel woi	Masnya tolong mbok ya dikasi pulsa. Itu aku tungguin 1 jam dan aku sms call gk nyambung (pdhl ke sana cuman 5 menit) aku cancel dan 5 menit kemudian dia call uda beli, maksa2 bayar. Yaela aku uda order satu lagi, jadi dobel. Tolong mbok ya dilarang yg pulsanya rp1, dan jgn dipilih yang terlalu lelet.	3	Negative
+2010	AMAZING	Its simple, easy and totally relevant for every day life. I had been using this a lot I think this is very helpful. True revolution!	5	Positive
+2011	Amazing	Super innovative and functional, one of the best application I have! Drivers are mostly very nice, the app has regular updates... In a city with super deficient public transport, this app is a game changer !	5	Positive
+2012	Make my life easier	Make my life easier to find ojek ??	5	Positive
+2013	Make it landcsape mode!	"So that we can see the full menu on Go-Food!
+Or at least make it scrolling text, because there&#39;s no way to read the full text. Please fix, thanks!"	3	Negative
+2014	Ancuuuur	Aneh ya makin ke sini makin ancur versinya...mau pesen aja ampe sejam error mulu,akhirnya pake grapbike	1	Negative
+2015	Update profile gagal	Tidak bisa update no telpon, kode verifikasi sms selalu gagal ????	2	Negative
+2016	Sangat membantu banget	Membantu banget untuk kirim kirim barang dengan cepat...	5	Positive
+2017	group order	ga ribet kek naik angkot, tapi yg ribetnya pas order gojek buat grup, kalo saja possible to order multiple gojek at same time, that would be AWESOME	4	Positive
+2018	Keren	Berguna	5	Positive
+2020	Fitur di tambah	Kalau bisa fiturnya di tambah seperti survey toko/distributor untuk para pengusaha perlu surveyor sblm mereka membeli brg dr siatributor trtentu. Dan juga untuk gojek di balikpapan mohon untuk di perbanyak. Go-jek Sejauh ini masih efektif.	5	Positive
+2023	Jos Gandos	Ok bgt sangat membantu,, tingkatkan kualitas!!! Sukses terus!!!	5	Positive
+2024	Sangat buruk	"Apps sangat buruk.
+Pelan, tidak resposif, tidak ter susun secara rapi.
+Dana tidak bisa di pakai kacuali hal tertentu. Go food tidak bisa bayar dari credit. Sangat2 merugikan dan menipu konsumen.
+
+Saya tidak akan merekomendasikan applikasi ini.
+Aplikasi penipu uang rakyat."	1	Negative
+2025	Aplikasi crash dan error	Pas buka aplikasinya selalu langsung crash dan error, mohon diperbaiki.	1	Negative
+2026	CACAT	aplikasi gojek untuk iOS benar benar dianak tirikan !!!!!	1	Negative
+2028	Rusak	BETULIN DONG APLIKASINYA , RUSAK MULU NIH!!!!	1	Negative
+2030	Rubah nomor telp	"1. Rubah no registrasi telp gagal terus. 
+
+2. Pada saat milih lokasi tujuan, selalu keterangan &#34;time out&#34;"	1	Negative
+2032	Problem server	Tolong server untuk di upgrade. Karena banyak user yang menggunakan akhirnya koneksi jadi gak stabil, buat ganti nomer handphone aja gak bisa bisa, pake jasa kirim paket sampe nyantol ke dua driver gojek	3	Negative
+2033	Sudah bagus tapi...	Ide nya sangat kreatif dan sangat bermanfaat. Tetapi ada beberapa hal yang harus diperbaiki dari app ini seperti peta real time yang lebih responsif dan masih banyak bug.	4	Negative
+2034	Mantap	Suka banget sih soalny garibet plus gue udh beberapa kali make go food dan go ride buat nganter gue kuliah harga nya kalo di itung itung lebih ngirit ongkos dan waktu deh hehehe	5	Positive
+2036	Peta real time	Tolong peta real time nya diperbaiki karena saat ini tidak bisa real tracking .terima kasih	1	Neutral
+2038	Servernya suka down	Suka error.	1	Negative
+2039	Go-jek	Very bad error terus sih aplikasi ini	1	Negative
+2040	Apps and server thumbs down	Saya sering sekali menggunakan jasa gojek, menurut saya servis dari driver gojek bagus dan professional. Namun sangat disayangkan seringkali apps gojek crash, dengan banyak problem2 lainnya (ex: calculating total saja bisa memakan waktu yg lama (10min) atau malah biasanya gagal). Dan juga sudah 2x saya mengalami kejadian yg hampir sama, di apps saya orderannya masih blm bisa disubmit tapi trnyt yg terjadi di server gojek multiply orders sehingga order yg sama diterima bbrp banyak gojek drivers yg akhirnya meminta saya untuk me-cancel orderan atas nama mrk, yg dimana tentu saja di apps saya ngga ada orderannya. Mohon dari pihak go-jek untuk memperhatikan problem-problem dalam apps tersebut karena hal tersebut sangat merugikan baik driver dan consumen. Apps yang seharusnya memudahkan sistem order malah membuat masalah yg panjang	1	Negative
+2042	Good	Very helpful	5	Positive
+2044	Crash benerin dong	Aplikasinya nggak bisa dibuka, gue pake ipad mini. Crash terus	1	Negative
+2045	Top up	Sudah melakukan top up lebih dari 3x24jam namun blom di kredit jg smpe saat ini...sudah call ke call center tp blom ada hasil..mana nyambung nya susah lg...bingung mw lapor kemana lg...gmn niy gojek ??!	2	Negative
+2046	Usefull	suka suka, jadi gampang kmna2 murah and ngerasa aman aja^^	5	Positive
+2049	Applikasi paling burukkk	Applikasi dan call center sangat buruk. No hp saya dipakai org utk registrasi dan call center tdk bisa berbuat apa2x kecuali menyarankan saya utk regiter dengan nomor lain. Pinter amat sih call centernya. Hahaha	1	Negative
+2050	Topup thumbs down	"Aneh topup koq sampe 2x24 jam saldo blm masuk jg??
+Pihak gojek ditelp bilangnya msh proses bagian keuangan. Tidur kali keuangannya?!
+Topup biar saldo bisa dipake malah jd ribet.
+Gak di info jg brp lama proses topup sampe saldo muncul."	2	Negative
+2054	updated	updated the app but it made the app worse. i can finally log in. BUT i cant see my progressed orders or even my completed ones. ugh. PLEASEEEEEE FIX!!!!!!!! do not update guys.	2	Negative
+2055	Useful but	"this is best delivery app ever but I can&#39;t change my phone number why ???"	5	Positive
+2056	GO JEK USER	Such a great app and business that helps my daily life much easier. Thanks GO JEK! Keep it up the great work! Highly Recomended for everyone who lives in Jakarta like me -cheers	5	Positive
+2058	Great Idea for Apps	"doesn&#39;t matter about another app, this is always be the best. but for change mobile number its bugs. please fix it"	4	Positive
+2062	App tidak merespon input data	"Versi App terbaru selalu crash ketika akan digunakan. Tampaknya tdk compatible dengan OS Iphone yang lama
+
+Ketika menginput data alamat dan detail untuk jasa pengambilan paket kurir, input data sudah diketik tetapi tidak muncul di layar, hanya muncul di halaman konfirmasi order."	2	Negative
+2069	Ga Bisa Update No Telepon	"saya ganti nomor, begitu saya masuk ke profile dan mau ganti nomor telepon tulisannya &#34;sorry we were unable to process your request, please try again&#34;. selama seminggu saya coba tiap hari tapi begini terus.
+Akhirnya saya telepon ke CS 021 50251110 ternyata pihak CS ga bisa mengubah/update nomor telepon.
+Ada baiknya jika kasus semacam ini bisa diselesaikan, karena secara logika ini sangat mudah.
+Terima kasih
+BR,
+Andi Aswin"	1	Negative
+2075	Best of the best??	Bagusss. Tapi masih suka error kadang2 sih	5	Negative
+2077	Eror trus semenjak ada go mart	Versi terbaru semenjak ada go mart, bnyk fitur gk bs diakses sempurnah. Spt go food sering force close. Server gk stabil. Sering eror klo udh dpt driver. Tiba2 ilang lg. Dibenahin lg ya.	2	Negative
+2084	HOW	"Could it get worse from version 1.0 to 2.0??? Because it did!
+I need the Go-Food feature but I can&#39;t use it AT ALL because not only does the app crash EVERYTIME I use location service for so called &#34;Near Me&#34; feature, but I can&#39;t type street names either now - since version 2.0! No result come up because the default city is Jakarta only!
+What about users outside of Jakarta?? We can&#39;t use location service otherwise it crashes and we can&#39;t type the street name nor name of the restaurant because it&#39;s not in Jakarta!
+
+The most basic set up for this kind of app is to SET DEFAULT CITY and you can&#39;t even do that????
+
+Seriously this app is nonsense"	1	Negative
+2085	Ringtone'd be helpful	"Go-jek should add some ringtone for notifications so that we&#39;re better notified when we&#39;re putting the phone away."	5	Neutral
+2086	Great	Great apps, it works really well on my device!????	4	Positive
+2087	Honestly best app ever invented	Honestly best app ever invented, especially in a third world country like Indonesia. Sure, there are a few bugs that still need to be fix but they continue to roll out updates for bug fixes and on top of that launch new services. This version of the app has Go Mart! The app is great and makes my life so much easier!!!	5	Positive
+2088	Please fix!	"I am in the middle of an ongoing shopping order and I cant track my driver because the all of my order history (both completed and in progress) are gone. I don&#39;t know how to get hold of the driver because it&#39;s not showing the driver&#39;s contact information due to missing order history. This is probably the fourth time it&#39;s happened in two months. Also, no one ever picks up your customer service line every time I try to call, so please do something about it."	2	Negative
+2089	Tarif baru nya disappointing	Harganya jdi lebih mahal. Sy biasa ke kantor dr sudirman 10rb. Skrg malah naik jd 15rb.	1	Neutral
+2090	Updating phone number	"Please fix this bug as soon as gojek pick up their costumers, i cant update my phone number
+
+Thanks.."	3	Neutral
+2091	Money	They took my credit ??	1	Neutral
+2092	Crashing	Trying to checkout after selecting food but it keeps crashing on checkout page.. Been weeks and there have not been an update. Do something about it!	2	Negative
+2093	NEED SOME UPDATE!	Apps need some improvements and UI update. Keeps crashing out after a while. The whole idea was great, but the apps is a let down.	1	Negative
+2094	Bagus	udah. banyak drivernya.. Banyak promo gojek kredit..	5	Positive
+2095	No good experience	"I managed to put order to food stall at mangga besar, found the courrier, but then the courrier called and asked me to cancel the order because he was still at blok M.
+Good idea, bad experience"	1	Positive
+2096	best apps but needs improvements	this is the most helpfull apps if you live in jakarta	4	Positive
+2097	Satisfied, but still lot of rooms for improvement	"The apps itself is very helpful and I am one of the satisfied customers. 
+
+Servers needs to be upgraded, frequently crashed and unable to process further - especially on the peak time and rush hours.
+
+Suggestion also to have the training for the drivers how to read the maps, 
+
+Please add the driver rating,  its very useful for you and us, as customer"	3	Positive
+2098	Good apps but not stable	The goods has been delivered but the apps still saying its on the way. The driver icon in the map is not real time. Sometimes it cant show how much my credit	2	Negative
+2099	Please fix the issue!	"Couldn&#39;t use gojek anymore"	1	Negative
+2100	Doesnt work	the app is constantly unable to find me a driver even though there are plenty of drivers available. needs work and improvement.	1	Negative
+2101	mr	the app is a total ripoff i dont what the heck is going on, but my order was labelled unable to processed yet again i ended up with four gojek drivers came to my place billed me with 1.3 million!!!!!!	1	Negative
+2102	Great idea, needs lots of improvement	"Tried GoJek for the first time in Bali. Ordered from a local restaurant and thought once a driver had accepted the job I could just sit back and relax and wait for my order to arrived. Instead I got multiple calls from the driver asking me to text him my order, then my address, then to confirm if the total was correct. I appreciate that he was responsive and quick, but shouldn&#39;t he have received all this information from the GoJek app? Why did I need to submit everything first to the app and then to the driver? I&#39;ll use the service again since our options are somewhat limited around here for delivery, but I&#39;d love to see the app improved so that the process is a little less complicated."	2	Positive
+2103	Needs an update	"Please release an update to fix a lot of bugs in the current version.
+
+1. Been refreshing all day to have my app show my credit balance, but it&#39;s still not showing anything.
+2. It took me 30 mins just to cancel a driver just tonight.
+3. My driver also told me his app wouldn&#39;t even respond his clicking on the &#34;pick up&#34; button on his phone as the app didn&#39;t seem to connect perfectly to the server."	2	Negative
+2104	App definitely frustating	"During peak hours it takes quite some time to process and worse it crashes often. Very frustating while using this app. Developer and Gojek will need to look at this matter seriously!!
+The old version allows me to view driver&#39;s updated location, but with the new version it would not update anymore."	1	Negative
+2106	Hmm	Aplikasinya suka keluar sendiri, mungkin krena saya pke store US kali ya? Hp sya iphone 5s, tp di hp teman sy yg 4s work smooth dan tidak pernah force close...	3	Negative
+2110	LELET!!	Kerjaannya error terus!!	1	Negative
+2115	Top app	Mantab banget nih app, bantu banget utk pesen2 makanan or anter dokumen	5	Positive
+2116	Tambah opsi	"Force close di iphone 6.
+
+Tambah opsi misalnya ketika toko tutup, kita tidak bisa order makanan"	3	Negative
+2118	ga bs dipake	"sejak 2 versi terakhir gojek selalu ga bs cek dompet.. krn ga bs buka saldo dompet otomatis ga bs booked.. login seh bs tp ga bs apa2.. 
+
+uda gt mau complaint tp yg ada cuma sarana via telp.. ga ada CS via email.. capek deh..."	1	Negative
+2120	Crash!!	Appnya keluar crash tiap kali buka go food!! Fix this out!!!	1	Negative
+2121	useless updates	Tiap buka go-food terus keluar sendiri. Update yang tidak berguna ??	1	Negative
+2124	go-food	kalo buat transportation si ok ok aja, tp pas lg buka go-food nya, langsung crash. baru mau liat menu2 buat dipesen. selalu gitu tiap buka go-food. kenapa ya?	2	Negative
+2127	History ilang	Updatenya jelek. History ga ada, saya ga bisa cancel booking, malah diomelin tukang gojeg	1	Negative
+2130	app needs improvement	cant see my credit ughh	1	Negative
+2131	WORST UPDATE EVER	This app is great but since the last update I cannot see my history such as last location used and completed task. Please bring the new update as soon as possible.	1	Neutral
+2132	Awesome!	Not much to say , just excelent !!	5	Positive
+2133	Solving one issue while adding another	"It&#39;s good that you&#39;ve fixed the login issue, but now my ride history does not appear at all. That same issue also prevented me from rating the drivers."	3	Neutral
+2134	App needs work	"Generally useful, but needs improvements still. In-wallet feature should work with ALL transactions, not just courier service. App still crashes at times, driver&#39;s GPS could be more accurate (and real-time). Needs to add Favorite List under Go-Food. Keeps getting logged out every few days. Needs improvements ASAP."	3	Positive
+2135	upgrade your server	"was waiting your &#39;calculating price&#39; for almost 30 minutes, then i decided to use grabtaxi"	1	Neutral
+2136	Innovative	Helping people ????	4	Positive
+2137	Cool	"A cool app but kinda need a feature that allows me to check drivers&#39; reputation."	4	Positive
+2138	Mantap, sesuai dgn kebutuhan rakyat indonesia	Tlg diperbaharui utk makanan agar rating jg dimasukkan dlm apps dan juga jam buka rest/warung spy tdk nyusahin gojek yg sdh kesana ternyata msh tutup	5	Neutral
+2139	Bug	Opsi transport jadi bug setelah update... Force closed	2	Negative
+2140	It's no use	"Always and always session login has expired..sigh..
+Please fix it and i&#39;ll change it to higher star"	1	Negative
+2141	Awesome	"Super helpful, it&#39;s really easier my activity and it&#39;s very economic..many thanks for the founder. Such a great job"	5	Positive
+2142	Solusi hidup di Jakarta	"Isi 50rb langsung : 543175559
+
+Thanks for making people&#39;s live easier and more fun. So we can do something else to live our life. i think Gojek&#39;s gonna grow bigger.
+
+Pros: user friendly, fantastic promo, there&#39;s testimonial and rating on the drivers (think about seller&#39;s rating on ebay), integrated map, timely order, and..
+The drivers usually call you whenever they can&#39;t find you.
+Cons: bugs sometimes
+
+Get instantly Rp.50.000,00 after downloading by input this on referral code: 
+
+543175559"	5	Positive
+2143	My Comment	Nice Application	5	Positive
+2144	Great job !!	"Just wanna say thank you , it&#39;s help me so much ..."	5	Positive
+2145	Jakarta is saved!	Who knew the answer to most our problems was by certified ojek drivers!	5	Positive
+2148	Saldo ga berubah	Pada saat saya melakukan redeem kode yg pertama kali, saldo saya bertambah 50rb, lalu saya share kode saya ke orang lain.. Tetapi saldo saya tidak bertambah sama sekali! Tolong diperbaiki	2	Neutral
+2150	Tidak Berfungsi di Cimahi	Di Kota Cimahi, ga bisa order Gojek. Padahal drivernya ada lagi ngoprek hp gojeknya. Sudah dicoba beberapa kali di hari yg berbeda. Di kampus unjani juga beGitu. Padahal banyak user gojek disana yg ke kampusnya dari bandung/padalarang pake gojek, tapi pulangnya ga bisa pake gojek.	1	Neutral
+2153	Jeleekkkk!!!!!	Tukang ojek nya lama banget datang !!!	1	Negative
+2156	Gak bisa sign up	Gak dapet verification code jadi ga bisa daftar. Applikasinya eror ato gimana ya	1	Negative
+2164	Lemot	"Sering Error
+
+Harus ada update software dari PT. Gojek nya
+
+Belum siap untuk melayani ratusan orang sekaligus..
+
+Padahal masyarakat antusias."	1	Negative
+2169	Kecewa	Saya lagi butuh banget untuk pergi karena gak ada yang bisa anterin, jarak dari rumah sekitar 10 km. Saya sudah order lumayan agak lama, dan tidak kunjung menemukan driver nya. Mungkin driver nya malas kalo jarak yang agak jauh. Padahal saya tidak memesan jarak yang melebihi 25 km sesuai jarak maksimal gojek yang telah ditentukan. Mohon untuk bisa di perbaiki lg service nya. Selebih nya yang jarak2 deket lumayan cepat respon nya.	2	Neutral
+2171	Great business idea!!	"It&#39;s very helpful to me. Save time, save energy. Go food, shopping, and courier service. All great. But still need improvement in:
+1. The drivers&#39; commitment in doing so. I guess the 10000 promo make them lose appetite in taking (a little bit far) order. I have to put note: additional fee for driver so they want to pick up my order
+2. Go-food definitely need improvement. Update menu, vendor, etc
+3. The app itself, sometimes taking very slow to finish the order. It kept saying to fill the items section first (while it was already filled)"	3	Positive
+2173	No Driver Found???	No driver found, tapi kenyataan di lapangan dan gmaps, menunjukkan ada banyak pengemudi gojek?????? #berhasildicuekintukangojek	2	Negative
+2174	Tambahkan info plat nomor driver	Gojek helpfull banget belakangan ini, mau ojek atau kurir so far oke, gak ada masalah. Hanya saran, di aplikasiny bisa ditambahkan info plat nomor drivernya yah, untuk memudahkan yang order juga. Karena yang order gojek dan gojeknya kan juga banyak, jadi info plat nomor driver sedikit banyak bisa memudahkan. Sukses terus!	4	Positive
+2175	Smart	Good	5	Positive
+2176	Gojek review	GoJek membantu banget buat anter-jemput di waktu kita lg buru2 dan ga ada waktu utk macet2an naik mobil, apalagi bs dimintain tlg buat belanjain barang2 waktu kita lg males keluar rumah. layanan 24 jam nya jg OK, mudah2an setelah promonya abis tarifnya ga mahal kyk ongkos taxi, jd kita bisa terus langganan..	4	Positive
+2177	Great app in Indonesia!	"It was very helpfull if you can&#39;t see any public transportation around you. Mostly since I used Gojek, I found nice and friendly drivers. But sometimes in rush hour I can&#39;t found any drivers, I hope Gojek can fix it and get better than this time."	5	Positive
+2178	Superb	Need to guide them indeed. But still very helpful!	5	Positive
+2179	Aplikasi yg sangat membantu	"Gojek sangat bermanfaat????????
+Gunakan nomor ini 543692414 dan dapatkan saldo sebesar Rp50.000,-"	5	Positive
+2180	Good ide but BAD app	Saya sudah seringkali mengunakan aplikasi gojek dengan pilihan go-food. Pesanan direspon dgn cepat (walaupun terkadang lama banget), lalu terkadang pesanan saya dtg dlm jumlah yang tidak sesuai, saya mencantumkan jumlah (porsi) dlm pesanan go-food, namun dlm proses akhir, nominal (porsi) menghilang dan diakhir dengan nama pesanan beserta jumlah total harga saja. Hal ini menimbulkan kesalahpahaman driver gojek yg memesan orderan menu. Sebagian besar driver gojek berasal dr masyarakat menengah bwh, sehingga saya berharap kejelasan dlm aplikasi sungguh perlu diperBAIKi. Tentunya hal ini saya harapkan dpt menunjang kenyamanan serta meminimalkan kesalahpahaman yg terjadi.	1	Neutral
+2181	Good app	Baru coba sekali sih, tapi kesan pertama begitu menggoda :) Pak drivernya ramah, barang langsung dikirim, dan klien saya pun senang. good job go-jek!	5	Positive
+2182	Disapointment	Wasted my time waiting for a booking confirmation instead of saving it. What the fc*k	1	Negative
+2183	Gojek is a fluke	"During the Ramadhan promo I ordered food using the Go-Food service but none of their abundant drivers picked up my order. The app just says &#34;no driver found&#34;, and there wasn&#39;t even a sound notification. I had to refresh the app to find that my order has been automatically canceled. NOT RECOMMENDED!!!"	1	Negative
+2184	Gojek	sangat inovatif	5	Positive
+2185	Wasting my time!!!	"Sudah coba 3x order, ditunggu sampai 15 menit tak kunjung datang, tak ada pemberitahuan. Padahal terdapat 2 drivers near me.
+Mungkin karena tahu bakal gratis, tidak mau merespon. Lupakan saja layanan GoJek ini, mereka hanya menjemput semaunya saja."	1	Negative
+2186	First time use was great but...	"The first time I used this app, I was impressed, w/the app, that is. I used it twice in one day and I was a bit disappointed that the drivers didn&#39;t know the areas I was going to, so I had to guide them the entire way. The next day, despite showing drivers in my area, I got the message &#34;no driver found&#34; after ordering/retrying several times (more than 5). Now, when I open the app, it crashes almost immediately. My excitement for this new revolutionary service has turned into disappointment. There&#39;s another service called Taksi Roda Dua that offers the same services and is cheaper. Going to give them a try."	2	Negative
+2187	Good Service	Good service for drivers.	5	Positive
+2188	If I can give ZERO star, I will	"I have been trying to request Go-Food with my Go-Cash money my entire week (using both my sister iPhone and my own iPhone) and nothing show up, the same excuses are Driver not found (again and agajn and again) and I think they simply lazy and do not want to give neither promotional Rp.50,000 nor service that doesn&#39;t beneficial to them."	1	Negative
+2189	Pelayanan memuaskan sejauh ini	Saya dapet driver cepat. Dan driver selalu ramah dan ngobrol dijalan. Aplikasi ini dan pelayanannya memuaskan sejauh promo ini.	5	Positive
+2190	Sign up trouble	"Nggak bisa sign up sama sekali di iOS, beberapa kali coba sampe reinstall still doesn&#39;t work... useless app"	1	Negative
+2191	Driver not found ??	Ditambah lagi armadanya ??	2	Neutral
+2195	Servis Tercepat!	Aplikasinya mudah digunakan, data driver berikut posisinya dapat diketahui, servisnya pun cepat.. Very recomended!	5	Positive
+2199	Gagal order	"Saya telah 3 kali gagal order, &#34;Driver not found&#34;.
+Seperti nya gojek belum siap menerima orderan nih.."	1	Negative
+2203	Ok di awal aja tapi mahal	Voucher: 542546427. Awalnya cepat dapat driver tapi sekarang app-nya loading terus. Harga ga muncul2, credit saya juga ga muncul2- selalu loading.. Tarif lebih mahal drpd taxi Blueb** skrg malah naik hrgnya pas jem sibuk. dan nomer CS ga pernah bisa di hubungi, pagi, siang, malem sama aja.	1	Negative
+2206	It did not work...	"Didn&#39;t work...i tried to use it to pick up good from Puri Indah to Pondok Indah....fare calculation took forever and when it showed...no response from driver to accept my order...when repeat the process....again fare calculation never success...what a waste of time"	1	Negative
+2207	Apps berfungsi tapi order tidak tiba	"Saya order Gojek food dgn pilihan menu dari restaurant yg terdaftar di list Gojek. Namun dua driver Gojek yg &#39;pick-up&#39; order saya, dua2nya mengaku tidak menemukan menu dan restaurant tsb, dan meminta saya men-cancel order. Mohon maaf terhadap kedua driver Gojek, saya terlanjur memberi Anda review yg kurang baik padahal mungkin kesalahan ada pada sistem pendaftaran menu/restaurant."	2	Negative
+2208	Aneh	Setiap restoran diliat di go-jek appnya semuanya ad tulisan closed tapi yg aslinya tidak tutup tolong perbaikin ini	1	Negative
+2209	good	solusi ditengah kemacetan jkt with reasonsble price.Semoga tarifnya tetap reasonable ya......	5	Positive
+2211	Good Job!	"Kalo gua sih ya merasa sangat dibantu dengan kehadiran aplikasi ini. Kenapa? 
+1st: Aman
+Karena ada di bawah naungan sebuah perusahaan (identitas diri pengemudi pun lengkap)
+2nd: Nyaman
+Karena gua ga perlu lagi ke depan apt utk panggil ojek, secara jakarta andalan kendaraan adl motor.
+3rd: Time Keeper
+Pada saat chargeran laptop gua ketinggalan di kantor klien yg notabene jauhhh bgt dr tmpat gua sedangkan gua sangat butuh utk next meeting, gua pakai jasa kurir dari Gojek dan hasilnya cukup sangat baik dan membantu sekali.
+4th: Notification Reminder
+Gua selalu ada kok ya notifikasi dari app ini, baik disaat gua dpt drivernya, drivernya sdh sampai, bahkan lagi otw ke tujuan gua lalu berakhir di tujuan, semua ada notifikasinya. Mungkin kalo yg blm ada, coba deh cek lagi jaringan lu.. Karna segala sesuatu yg berhubungan dengan &#34;online&#34; lu harus punya koneksi inet yg lancar. 
+5th: Great Driver
+Setelah gua tau sndiri dr drivernya bahwa ada pelatihannya utk bagaimana bersikap dan bawa motor dengan baik, gua lgs menarik kesimpulan bahwa app ini bukan hanya berguna buat para penumpang Gojek, tapi juga utk driver itu sndiri. Mereka dilatih utk bagaimana cara mengendalikan diri dan menjadi pribadi yg lbh baik. 
+
+Harapan gua sebagai pelanggan:
+1. Semoga makin maju dan sukses dengan peningkatan layanan dan kualitasnya.
+2. Gua ud ngebayangin Gojek itu sama seperti Drivernya Taxi Bluebird yang sangat sopan dan punya kepribadian yg baik.
+3. Membantu para ojek-ojek yang blm bergabung dlm menyelesaikan kesulitan dokumen mereka(SIM/STNK) yg bermasalah, sehingga merekapun bisa bergabung dan menikmati benefit yang diberikan oleh pihak Gojek.
+4. Semoga para Driver Gojek dilindungi dari hal-hal yang buruk oleh para ojek yg belum bergabung.
+
+Terima kasih Gojek!"	4	Positive
+2213	mantab	solusi tepat pada rush hour	5	Positive
+2214	Awesome!	Pertama kali hari ini pakai gojek karena kurir mendadak sakit, langsung panggil 3 driver, semuanya datang tepat waktu sesuai aplikasi dan sampai mengirim paket juga tepat waktu. Will definitely use it again!	5	Positive
+2215	Crash many times	Yeap crash many times	1	Negative
+2216	Tidak ada customer service, resiko ditanggung pengguna karena gojek tidak peduli	"Memberi 2 driver rating 1 bintang tapi sampai sekarang tidak dihubungi oleh go jek. Mencoba menelpon tetapi nomor CS tidak bisa dihubungi selama 1 hari penuh. Dicoba hari berikutnya, berkali-kali telp tidak ada yg angkat.
+Kejadian kedua driver tsb:
+1. Membeli dari restoran yang salah dan pesanan makanan yg salah, mengaku bon hilang, meminta jumlah uang yang lebih daripada pada saat di check ke restaurant tsb.
+2. Setelah 2 jam makanan baru diantar, berani meminta tips dan raut wajah marah pada saat ditolak.
+Oh, dan yang muncul di app &#34;we will notify you when we have found a driver&#34; adalah bohong karena tidak muncul notifications di iphone."	1	Negative
+2217	Go-Jek Bandung Juara	Praktis, ekonomis ^_^v	5	Positive
+2218	Helpful!	This app is really helpful but sometimes my address cannot be located correctly. Some of the address in map wrong even you locating in the right place, so Ojek sometimes got missed-place and took some times. Thanks! Good luck	4	Positive
+2219	Crash terus	Kmrn baik baik aja n bgs sekarang crash terus nihhh app ga bs dipake	2	Negative
+2220	Crash	The service is excellent, but the app is always crash when i tried to top-up my wallet. Please fix this.	1	Neutral
+2221	DOMINATING	gojek is literally everywhere and dominating the streets. whenever i see them, they just remind me of their good service. thank you gojek!	5	Positive
+2222	Application crashing	Keeps on crashing and cannot order from the application :(	1	Negative
+2223	Parah	Gimana bisa mesen kalo crash mulu woi	1	Negative
+2224	Bagus	Sering sering adain promo kaya promo 10rb itu hehe!!	5	Positive
+2225	Cool inovation	Helpful!	5	Positive
+2226	Review	App nya crash terus!! Tolong diperbaiki agar service nya semakin baik	3	Neutral
+2227	Outstanding!!	Amazing service!! However it crashes a lot when I try to check my credit or even try to fill in Gojek credit, have not been able to do that until now.	5	Positive
+2228	Makin mantap	Makin berangkat	4	Positive
+2233	Go jeck	Lama banget saya sudah menunggu 2 jam pesenan ku belum datang	1	Negative
+2238	App keeps crashing	Di update terbaru, crash terus kalau discroll mentok ke bawah (iOS 8). Please fix this and update the menu + price for the go-food. Untuk go-jek, selain masalah order makanan, just keep up the good work!	3	Neutral
+2242	Kereeenn	"Appnya praktis mesen wojex...mantap masukin aja &#34;542623677&#34; no ref buat dapatin 50rb...keren deh"	4	Positive
+2245	Bagusss	Aplikasinya sangat bermanfaat	5	Positive
+2253	Good for nothing.	"One would think that a huge telecommunications outfit like Indonesia&#39;s Telkom could perfect an app, especially one designed to market its product to iPad and iPhone users. One would be very wrong to think so. This app does nothing it claims to do. Telkom should be embarrassed, but shame doesn&#39;t come easily to such corporations."	1	Negative
+2254	Sampah	Applikasi ini selalu mau BAB ketika saya perlu pakai ini. Malu2 telkomsel!	1	Negative
+2255	New design please	Design baru mungkin bagus, biar org tertarik buat download.	1	Positive
+2256	This app is sh*t	Guoblok	1	Negative
+2257	Useless	"If you&#39;re not online, you can&#39;t use the app. So if you ran out of quota and you need to buy more, you have to do it old school with the USSD code, and THEN you can access the app to see your quota.
+
+Otherwise you just see the terrible splash screen and you get no explanation whatsoever. So you could be sitting there waiting for the app to load so you can top up your internet, but nope. You need Internet to buy Internet. Go figure.
+
+Also it seems like it&#39;s not designed with iOS in mind. The buttons crashed against iPhone&#39;s status bar and it overall looked like something that belongs in the early 2000s Nokia phone, not a 2014 iPhone.
+
+Terrible app, terrible interface, pretty much terrible everything."	1	Negative
+2258	Automatic login failed	Sebagai perusahaan besar jasa telekomunikasi selayaknya anda memberikan pelayanan yang terbaik untuk para pelanggannya. MENYEBALKAN jika setiap mengecek kuota internet serta pulsa HARUS menghubungi *323# untuk mendapatkan password login baru. Pelayanan kalian tidak sesuai dengan harga yang saya bayar. Mengecewakan!	1	Negative
+2259	Pointless apps since this update	"The developer of this apps should be have a rough day and drunk trough all days and night from last 69 years, and then he decide to ruin all people life, because all people need to felt his suffer from his childhood.
+PS : this apps is inside job, malih tongtong for president"	1	Negative
+2260	Bring back some memories	"Such a great app! Perfect match with iphone 3G! And that was 7 years ago damnit. Perusahaan komukasi indo salah satu yg terbesarnya aja begini; pelit, ga maju2, pengaduan customer lewat doang kaya buang air."	1	Negative
+2261	Can't even login	This should be taken down	1	Negative
+2262	Bahasa Ingris di mana?	Bahasa Ingris di mana?	1	Negative
+2263	Auto Login Fail	Auto Login Fail	1	Negative
+2264	??	What happened to the English option?	1	Neutral
+2265	Awful update	Where is English?	1	Neutral
+2266	Icon nya jelek...	kalau bisa icon nya diganti ke yang lebih bagus	3	Neutral
+2267	Di update dong!	Sebagai pelanggan Telkomsel saya merasa perlu apps ini. Tapi dari segi UI dan UX perlu diperbaiki lagi, karena ada beberapa informasi yang membingungkan.	1	Neutral
+2268	Tsel	Baguslah pokoknya mah	5	Neutral
+2269	Really Oldschool App	This app needs a new look or interface at least support for iPhone 6 or 6 Plus.	2	Neutral
+2270	Fix bugs	"It doesn&#39;t log me in automatically anymore. I don&#39;t know where I can get &#34;token&#34; or password from. If I get one, it&#39;s only temporary. How to fix this?! Or fix this please!"	2	Neutral
+2271	Segalanya jadi lebih mudah.	Beli paket internet, nyari grapari terdekat, cek kuota dan pulsa, transfer pulsa, semuanya jadi lebih mudah dengan MyTelkomsel. Aplikasi yang berguna. Goodjob!	5	Positive
+2272	Mediocre with ugly design	hoping the new update will feature ios7ish design but no, still the same ugly interface. You guys sure can afford a proper designer	2	Negative
+2273	Gagal login	Tolong diupdate lagi aplikasinya karena ribet harus dial *323# dulu.harusnya kan automatic detect nomer kita.	1	Neutral
+2274	Validasi kok terus?	Apps bagus tp buat ipad harus gonta ganti kartu.	2	Positive
+2275	Buruk!	Terlalu sering meminta token konfirmasi. Sangat mengganggu	1	Negative
+2276	Lumayanlah	Tampilannya masih kurang premium. Perlu ditingkatkan lagi biar lebih keren.	4	Neutral
+2277	Tampilan bagus dan menarik	Tampilan yang jelas bagus menarik dan informatif. Cuma ada yg menggangu saat sudah tidak pakai wifi masih tampil layar isian no telp dan password	4	Positive
+2279	Belum bagus	Apps ini bs d manfaatkan, namun Sepertinya tidak praktis kl tiap mau login hrs pake token, buang2 pulsa aja. Trus ini mau transaksi cm dpt jawaban sistem sedang sibuk, halah sia2 pulsa n waktunya	1	Negative
+2280	Worst app. Ugly interface.	Not modern. Payah designer app nya norak. Bikin jelek gitu. Harusnya sih bisa lebih bagus dr tampilan dan lain lain nya.	1	Negative
+2281	token token token !	"token yang anda masukan salah terus, aplikasi berjalan sangat lambat, keterangan sisa kuota kurang akutay
+tolong perbaiki"	1	Negative
+2282	Not bad	"Sebagai pengguna biasa, Lumayan. 
+
+Sebagai developer apps,
+Apa-apaan ini? Web app, di bungkus aplikasi native? Males banget developernya. 
+
+Sebagai UIX designer, interfacenya ga intuitif, bikin bingung. 
+
+Sebagai fanboy Telkomsel,
+Udah untung disediain aplikasinya loh. 
+
+Sebagai diri saya sendiri,
+Ini telkomsel pasti rogoh kocek dalem banget buat bayar developer nih. Hasilnya masih rata-rata. Mudah-mudahan ada update dalam waktu dekat."	3	Negative
+2284	App	Baru nyadar ya telkomsel betapa pentingnya app ini,,terutama pengguna iPad,,,	4	Positive
+2287	great	aplikasi yang bagus, cuman sering tanyakan license agreement berulang ulang..udah agree, close, buka lagi, agree lagi.. hahaa.. mudah mudahan ada perbaikan	5	Positive
+2290	useful, but definitely needs improvement	bermanfaat banget buat yang pakai iPad, tapi masih buggy n agak lamban. bener2 masih perlu ditingkatkan lagi dari segi interface.	2	Neutral
+2291	Perlu perbaikan lagi	Coba dibuat seperti versi webnya dimana tidak perlu token untuk login, tapi dengan pin yang sama, sehingga tidak perlu sms token tiap kali mau login	1	Neutral
+2292	Yang ditunggu pun tiba	"Bagus, simple, informatif &amp; mudah digunakan.
+Sangat membantu sekali.
+
+Terima kasih Telkomsel"	5	Positive
+2295	Great App	Mantap! Sangat berguna terutama bagi pemegang ipad yang tidak bisa mengakses USSD dan SMS.. 5 Stars.	5	Positive
+2297	Update	Sangat sulit buka facebook,padahal speed kencang banget.mungkin ada bug di versi ini.	1	Negative
+2298	Fix it	Still stuck loading in latest version on 5s	2	Negative
+2299	Good and helpful app	Very helpful for three internet user, simply buy a package, check the amount, very easy	5	Positive
+2300	Good application	Simple program for member tri	4	Positive
+2301	Ribet	"Notifikasinya gak mau di delete ... 
+Loadingnya lama 
+Package nya gak termasuk PPN 
+Dan spesial package nya gak pernah ada 
+Appsnya dibagusin lagi donk 
+Kalo bs pake graphic data usage biar fair"	1	Negative
+2302	Luthfi	Istimewa	5	Positive
+2303	rate	good service,	5	Positive
+2304	?????????????????	"Udah jelek bikin repot lg. 
+coba org tri sendiri yg pake! Pasti commentnya sama dgn sy. Apa tri ga punya duit ya untuk bikin app bimatri yg lebih bagus dari ini?"	1	Negative
+2305	Good!	Applikasi keren euy!	5	Positive
+2306	Crash	Apps crash running	1	Negative
+2307	I need this app for work, but...	bandwidth untuk upload nya di naikin lg donk.	5	Neutral
+2308	Belum support HD	Aplikasi baru, tapi udah ketinggalan jaman. Masa hari gini belum support HD display atau retina display. Animasi dan iconnya belum high ress. Dasar yg bikin org indo.	1	Negative
+2309	Sangat baik APP nya	Adakan undian di APP ini bos biar seru..makin rame pake sulasTRI..yang paling penting dijaga kestabilan Internet nya ..jgn cuma kejar pelanggan doang kualitas diabaikan :) cayooo buat sulasTRI	5	Positive
+2310	Ke 3 ??	Wahhh tambah berkembang aja nih 3. Tambah sukses dan tetap majukan internet murah di indonesia dengan kualitas ????????. Tp kok sekarang gak sekenceng 1th lalu ya sekerang kecepatan internetnya melambat. Ayo dong 3 di perbaiki lagi biar berselancar tambah mantab.	5	Positive
+2311	Keren si... tapii kok..	"masi belum kalahin internet.tri.co.id
+lumayan si, tp kembali ke fungsi !! kok adanya cm paket Kuota Reguler ++ ?? Paket kuota Reg 5 Gb nya man ?
+
+Nama nya aneh ah ??, logo nya jg aneh, Knp kaga pke logo nya 3 aja ? kaya app nya Three uk ? 
+
+ni masa iphone ada paket bb nya segala ? emang bs buat bbm apa ??, malah paket kuota reg 5gb kg ada.. adanya ko cm ++ ??"	3	Negative
+2312	Tri emang mantep	Mantep nih min app nya, jd gampang cek kuota dan lain lain	3	Positive
+2341	Ngg bisa login	Saat proses login langsung kembali ke halaman awal, status masih belum login. Username dan password dipastikan sudah benar	3	Neutral
+2342	Laris Manis Josss	Jualam di tokopedia , dagangan ku makin laris manis Josss	5	Positive
+2343	Aplikasi handal dan terpercaya	Sistem yg pinter sudah dipikirkan secara menyeluruh, rekening bersama membuat penjual dan pembeli merasa aman.	5	Positive
+2344	Tidak bisa login kembali	Setelah update ke versi terbaru , tidak bisa login lg, tolong diperbaiki bug nya.	1	Negative
+2345	Great	Great	5	Positive
+2346	Mantap	Apps yang sangat membantu org jual beli barang.. Mantappl teruskan.	5	Positive
+2347	Recommended	Bagus banget and mudah pake nya????????	5	Positive
+2348	Helpful	Mudah digunakan dan sangat membantu	4	Positive
+2349	Sipp	"Baguss..
+Tinggal ditambah pengiriman kilat aja"	4	Positive
+2350	Aplikasi Yang Bagus	aplikasi ini memudah untuk penjual maupun pembeli	5	Positive
+2351	Please fix	Barang yg berada di gudang tidak bisa di remove dari whishlist, selebihnya bagus..	4	Positive
+2352	Mantap	Jualan makin oyeeee	5	Positive
+2353	Good	Aplikasi yg bagus, Jgn lupa belanja di cantik beauty care Yaaa.	5	Positive
+2354	Easy to use	simple dan sangat user friendly	5	Positive
+2355	Very simple	Sangat membantu buat jualan ataupun pembelian	5	Positive
+2356	Crash!!!	"Setelah melakukan update yang description di app store nya terlalu pede dan banyak menggunakan &#39;!!!&#39; Nya ternyata crash setiap tap untuk melihat detail produk melalui halaman utama (hot items toshiba flash disk contohnya, lalu di tap salah satu yang harganya 40rb) langsung nendang keluar
+
+FYI. Iphone 6 ios 8.3 thanks"	1	Negative
+2359	Keren	Aplikasinya ringan dan sangat user friendly.	5	Positive
+2360	Keren. Easy to use	Keep up the good work. Utk review baru blm ke update kayanya	5	Positive
+2361	Great apps buat Topper :)	Sangat membantu seller buat kelola toko di tokopedia. Saran buat developer : kalau bisa topads juga bisa diatur lewat app ini	5	Positive
+2362	Akhirnya ada di iOs	Seneeeng banged Tokopedia ada di Ios cuma ada bug nih pas upload foto kedua apps selalu mental berkali-kali tlong di perbaiki please Tokopedia	4	Positive
+2363	BUG!!	di iphone 6, kalo nulis diskusi loadingnya seabad.. malah kadang gagal.. notifikasi tidak muncul pada saat berada diluar applikasi( hanya di dalam aplikasi )..banyak gambar hilang.. pada fitur filter bagian harga, pas mau ngetik, harganya ketutupan..tingkatkan lagi ya (yang katanya dapet suntikan dana 1,2trilliun)	1	Negative
+2364	Bug iphone 6	Sepertinya ada bug nih karena kalau tulis maupun buka review lama sekali.	4	Negative
+2365	I'm a Libyan using tokopedia ??	"Aplikasinya mantab sekali tp tolong add Indomart payment dalam sistem pembayaran .
+Thx"	5	Positive
+2366	Finally!	"Akhirnya tokped hadir juga di iOS &amp; memantau olshop Toko Anak Muda juga makin gampang. Thanks ??"	5	Positive
+2367	"Bagus &amp; mudah"	Akhirnya app ini muncul di ios. Sangat membantu dan mudah dioperasikan. Good job!	4	Positive
+2368	kaoscoc.co.id telah mengunduh app ini	"kami segenap crew kaoscoc.co.id dengan bangga telah mengunduh aplikasi ini, bila kalian juga mengunduh aplikasi ini, jangan lupa untuk berbelanja di toped kaoscoc.co.id
+
+hidup tokopedia, salam seller !!! tiada hari tanpa promote produk."	5	Positive
+2371	Tokopedia memang top!!	Akhirnya keluar jg apps tokopedia untuk iOS... Jadi bisa memantau jualan lewat iPhone.. Thanks tokopedia.. Semoga apps nya membantu :)	5	Positive
+2372	Cool app	Sangat bermanfaat. Berbelanja jadi lebih mudah.	5	Positive
+2373	respon sangat pelan	saya sudah unduh applikasi ini dan sdh dinyatakan sukses utk proses login,tp saat mau masuk applikasinya koq nunggu lama untuk kebuka halaman pembukanya	1	Negative
+2374	Tidak support iOs tua	"Saat ini tdk bs d gunakan pd iOs versi tua, katanya tidak lg d support, tlg diupdate agar bs d gunakan lagi, masa&#39; hrs ganti hp agar bs pake aplikasi ini? Thank U"	1	Negative
+2375	Bugs	Masih ada bugs saat hendak merubah tgl lahir di profile tidak bisa. Mohon di update	3	Neutral
+2377	Awalnya baik2 saja namun akhir-akhir ini sepertinya appnya tidak berfungsi	Awal mencoba di tahun 2014 memang semua masih baik fitur2 berjalan. Namun di 2015 sepertinya app tidak berjalan. Karena jadwal kereta justru tidak ada sama sekali. Mohon diperbaiki terima kasih	2	Negative
+2378	Simply apps	Smuanya jadi serba gampang. Hehehhe	5	Positive
+2379	Awesome	"Keren nih cari jadwal tinggal lewat handphone..
+
+Saran dong, stasiun asal sama tujuan nya di buat grup perkota.
+
+Overall lancar jaya.."	4	Positive
+2383	Aplikasi berita paling keren	"Aplikasinya bagus, tanpa iklan bertaburan dimana&#34;. Dan semua isinya &#34;PANAS&#34; saya suka. ??"	5	Positive
+2384	Simple	"Look simple but informatif.,kolom khusus bola&#39;ny d bikin kya web bola.net dong biar lbh asik.,thx"	3	Positive
+2385	Mantap	Mantaaaap aplikasinya	5	Positive
+2386	Aplikasi bagus	Aplikasinya dapat dikatakan bagus. Tampilannya cukup cepat, akan tetapi disayangkan tidak ada menu untuk menuliskan komentar. Kemudian, saya harap pemilik program dapat memperbaiki sistem tanggal, kerena hanya tertulis 1 januari null.	4	Positive
+2487	??	Loading bukti transfer terlalu lama, jadi logout sediri. Setelah login kembali bukti transfernya tidak ada. Kecewa, karena bukti transfer itu penting!	1	Negative
+2488	Transaksi ditolak	Transaksi ditolak wae pas trf naha sih? Harita pernah bisa, ayenamah kudu ka atm wae ripuh	1	Negative
+2490	Awesome!	"Simple, intuitive, work well!
+The only drawback is limited functionality, pls add transaction history.."	4	Positive
+2491	Perfect, works like a charm!!!	Sempurna, gak usah didengerin review sebelumnya, mereka kayaknya ndak bisa mengoperasikan aplikasi ini atau mungkin internet speed mereka ndak reliable.	5	Positive
+2492	PLEASE UPDATE	Gak bisa transaksi di ios 8 hanya check saldo aja.. Please update	1	Negative
+2493	habis update makin parah	kecewa ??	1	Negative
+2495	Crash	Aplikasi ga terlalu banyak perubahan, butuh pembaruan. Masih sering crash ketika aplikasi atopun login. Payah! parah! Sayah!	2	Negative
+2497	App Terburuk	App ga pernah di update,update dong..kudate ni mandiri	1	Negative
+2498	No 1 bank in indonesia = the worst bank apps in the world	"Ga banyak yg di review, dr judulnya udah ngejelasin semua...
+Ga update, too many bugs,always crash,late report..
+Tp sangat berterima kasih sama yg buat apps ini, krn saking seringnya apps ini ngaco, saya jd sering berolahraga jalan kaki ke ATM terdekat yg jaraknya sktr 200m...lmyn olahraga...keep up the lousy work... Mungkin 2 bulan lg saya bs kurus...."	5	Negative
+2499	Tidak bisa digunakan	Ni app kenapa udah di update makin parah. Terus Sangat lama respon perbaikan bug di mandiri mobile	1	Negative
+2500	di upgrade malah payah !	"tolong donk yang bikin apps yang becus ! masa mau aktivasi ulang aja lama harus berkali&#34; ! 
+kerjasama server pihak mandiri mesti dipercanggih lagi ! agar tidak bentrok dengan operator nomor handphone !
+developer aplikasi dan IT mandiri maintain yang becus !"	1	Negative
+2501	Not working	Setelah update, crash terus, transaksi paling ringan seperti isi pulsa ja gk bisa..	1	Negative
+2502	Payaah!	Diupdate makin parah crash-nya!!	1	Negative
+2503	Auto Logout???	sekarang aplikasi nya tiap terima sms OTP langsung kembali ke layar awal / ter-logout... mohon segera diperbaiki, karena sungguh mengganggu setiap kali mau transaksi harus download ulang terlebih dahulu (aplikasi ini hanya berjalan sekali secara normal, setelah itu harus download ulang karena setiap terima sms OTP langsung muncul bug logout nya)	1	Negative
+2505	Upgrade Dong	Tolong di Upgrade Untuk secepat nya, karena aplikasi selalu eror	1	Negative
+2506	Need full upgrade for ios 8	Masih belum ada perbaikan utk IOS 8????	1	Negative
+2507	Bagian bayar kartu kredit pakai konfirmasi	Pembuat app, pada bagian terakhir pembayaran kartu kredit, tolong di pasang konfirmasi donk, kemarin aku mau bayar kartu kredit 743,690 tapi terbayar 7,436,903 dan tidak ada konfirmasi, app ini langsung kirim, seharusnya di tampilkan semua dulu, di tanya bener apa nggak semuanya, kalau benas di bawah ada tombol BAYAR, kalau salah ketik ada tombol BATAL, tolong di perbaiki ya	1	Negative
+2508	Butuh banyak improvement	"Ini aplikasi dari dulu sampe sekarang perbaikannya minor bgt, masih buggy sering bgt bilangnya gagal tapi sebenernya transaksi udah jalan, atau udah transaksi tapi laporannya gak ada di kotak masuk. Heran deh bca mobile banking aja lancar kok masa mandiri gak bisa :(
+
+Sekarang update yg ini malah jadi gak bisa digunain sama sekali."	1	Negative
+2511	UPDATE ASAP !!!!	Udah delete trus ulang install, tetep aja ngak bisa di iPhone6.	1	Negative
+2512	Needs update	Please update for ios8	1	Neutral
+2513	hang terus	"cuman bisa dipake sekali setelah install baru, pemakaian kedua hang dan seterusnya..
+mohon perbaiki secepatnya...thx"	1	Negative
+2514	LAMA!!!	Update dong!!! Gmn nih team it mandiri!	1	Negative
+2515	Aplikasi ini ditelantarkan oleh Bank Mandiri	"Banyak orang berkicau bahwa app ini perlu update katena eror sejak install iOS8...namun tidak digubris oleh admin.
+Saya berkesimpulan bahwa aplikasi ini ditelantarkan dan sangat jelas bahwa selama belum ada update baru, aplikasi ini hanya sampah. Tidak dapat diandalkan untuk cek rekening, apalagi transfer. (Klo untuk urusan transfer, butuh aplikasi yang stabil)
+
+Sangat disayangkan Bank Mandiri kurang sigap menanggapi iOS baru."	1	Negative
+2516	Update buat ios 8 dong	Abis di delete, install ulang. Eh besok begitu lagi, masa harus begitu tiap kali transaksi	1	Negative
+2518	bugs on ios 8.0.2	sdh re-install, transaksi pertama bisa, tp transaksi selanjutx sdh tidak bisa..please update this app..	2	Negative
+2519	Did that, still not working	I delete n reinstall the app, it worked one time then it hang again! Pls update the app!!	1	Negative
+2520	Delete and re-install	Thank you merapi42a. Followed your instruction. It works! So guys, it needs to delete and re-install	4	Positive
+2521	Good app	Cukup puas dengan pelayanan m banking Mandiri walaupun tidak tampil penuh di layar iPhone 5, cukup membantu saya dlm bertransaksi beli pulsa, byr listrik, byr tlp, transfer, dll.	4	Positive
+2522	Delete the apps, re-install, works fine now	For iOS 8, delete the apps and re-install. It will work okay after that.	4	Positive
+2523	Tidak jalan di iOS 8	Payah tidak jalan di iOS 8!! Masak bank segede Mandiri gak cepet update Appnya	1	Negative
+2524	Developer tolong lebih sigap	Tolong segera di update agar kompatibel dengan ios8!	1	Neutral
+2525	Kapan di UPDATE…	Ayo dunk applikasi mandiri mobile nya cepetan di kasi update nya, pada error smua....	1	Negative
+2526	ios 8 is home, update please...	cak, gak iso di nggo iki cak. wes re install Ping telu... nyontal nyantol... update en yo mas. suwun	1	Negative
+2527	SERING ERROR	Please di update yah, sering banget error ga bisa liat saldo ! Thanks	1	Negative
+2528	Update applikasi iOS 8	Mohon perhatian nya, kami sebagai nasabah terganggu untuk bertransaksi secara mobile karena aplikasi tidak compatible dengan iOS 8	1	Negative
+2530	Mr.	Update untuk ios8 kapan? Cek rek pun ga bisa	1	Negative
+2532	Please update!!!	"I cannot use it with iOs 8.we need you to update as soon as posible.
+
+Regards thank you,"	1	Negative
+2533	Need update	Tidak kompatibel dengan ios8. Pls update!	1	Negative
+2534	IOS 8	"mbak&#39;eeeee ra mlaku iki...."	3	Negative
+2535	Error	Tolong update compatibility untuk IOS 8, saya tidak bisa transaksi lagi dengan aplikasi ini. Mungkin saatnya pindah k bank lain	1	Negative
+2537	Transfer error	Tolong buruan diupdate ya buat ios 8... Error mau transfer	1	Negative
+2538	Butuh update yang baru	Gak bisa dipake iOS 8	1	Negative
+2540	Please Update	Tolong update version buat IOS 8	3	Neutral
+2541	Gak kompatibel ma iOS 8	Tolong deh, masa tiap ada device baru ma iOS versi baru nih aplikasi rusak terus?! Pake otak dikit deh yang coding nya! Ini kan aplikasi banking, ngurusin duit, pake tanggung jawab dikit napa?!	1	Negative
+2542	Ios 8	Di ios 8 tidak kompatibel	2	Negative
+2545	Ios8	Tidak bisa dipakai di ios8 mohon perbaiki	1	Negative
+2546	Please update the app for iOS8	Ayo dong developer mandiri mobile lebih sigap mengenai update2 terbaru dari iOS. Aplikasinya gk bisa digunakan di iOS8 nih	2	Negative
+2547	iOS 8 Compability	Kaga bisa transfer di ios 8	1	Negative
+2548	Eror di iOS 8	Di iOS 8 Eror APP Nya tolong di update trims	5	Neutral
+2549	Butuh perbaikan	Satu satunya fitur yang bisa saya gunakan hanyalah mengecek jumlah uang di dalam rekening. Saya sudah mencoba beli pulsa dan bayar kartu kredit tapi selalu gagal dan auto logout terus. Mohon diperbaiki. Tks.	1	Negative
+2550	masih sering crashed	masih sering crashed diupdate versi ini	1	Negative
+2551	Mantap	Sudah bagus dan akhirnya support/optimized iphone 5 display..walaupun harus aktivasi ulang untuk menggunakannya,,mantap dan memudahkan transaksi	5	Positive
+2552	Wasted	Gak bisa aktifasi di iOS 7	1	Negative
+2553	Aplikasi Kereeen Di iPad Mini	Wiiiih Keren Aplikasinya gaa Kena Pulsa lagi klo Transaksi	5	Positive
+2554	Update tampilan utk iPhone 5/5s	"Om, udah kelamaan ni, kapan mau di-update tampilannya utk iPhone 5/5s? Tampilannya kekecilan.. Syukur2 kalo bisa update sesuai iOS 7 skalian..can&#39;t hardly wait.. Update soon,pleaseee...!!!"	2	Negative
+2555	iPhone 5!!	Support iPhone 5 screen ASAP!!!!	3	Neutral
+2557	Update	Oi mandiri, seriuslah dikit kalau bikin layanan, mana komitmenmu?	1	Negative
+2558	Update Aplikasi	"Saya pengguna aktif mandiri mobile. Tolong di update aplikasinya untuk iPhone 5 dan iOS 7 ya,biar lebih enak dipandang ;). Terimakasih."	5	Neutral
+2559	Kurang lengkap	Aplikasi yg cukup banyak membantu, hanya saja menu pembayaran msh kurang lengkap. Kl update trs dilakukan, virtual account vendor didalam menu pembayaran dilengkapi, i will give u 5 stars!	3	Positive
+2560	Perbaiki Tampilan!	"Sejak muncul ios 7, di iphone 5, tampilan aplikasi ini menjadi mengecil.. 
+Saran saya segera atasi, jika tidak mungkin akan kalah saing dengan aplikasi perbankan lainya."	1	Negative
+2561	Ios 6	Kapan support ios 6??	1	Neutral
+2563	Bla bla bla	103 sementara transaksi tidak dapat diproses	1	Negative
+2564	top	aplikasinya bagus,cuman untuk pembayaran internetnya kurang lengkap..semoga kedepan ada updetan biar lebih komplit seperti di web	5	Neutral
+2565	Poor	Tolong di update ya ini app, gak bisa dipake	1	Negative
+2573	gagal otp	"mengecewakan aplikasinya ga bisa di pakai untuk transaksi error &#34;gagal otp ... coba lagi dan coba lagi... &#34; cuma bisa di pakai buat cek saldo aja ..."	1	Negative
+2574	Parah!!!	"Sudah saya coba aktivasi selama 2minggu tetap tidak bisa.
+Tanya&#34; ke CS alasan selalu sama &#34;lagi maintainance&#34;
+Overall = MENGECEWAKAN!"	1	Negative
+2575	SMS OTP tidak terkirim	Interfacenya mantab, however sudah telpon ke call center dan mampir ke CS mandiri untuk setting di iphone 4 saya tetep saja tidak bisa/berhasil terima SMS OTP.	1	Negative
+2577	Mantap deh mandiri...	Mantap deh mandiri...	5	Positive
+2580	Ajib dah	Aplikasi yg lama ane tunggu...smkin mantab dgn mandiri	5	Positive
+2581	nice app	app yg bagus. tp ada beberapa ui yg aneh (cth: tidak bisa back pada saat masuk transfer antar mandiri). terus transfer rtgs tidak berfungsi. dan online transfer blm ada. semoga bisa beres semua pada saat update selanjutnya	4	Positive
+2582	Mantap	akhirnya mobile banking bank mandiri ada di apple store, dengan UI yang lebih bagus ketimbang BB, salut untuk mandiri, sangat membantu penggunanya	5	Positive
+2583	Error electricity token.	"Please fix the bug..can&#39;t pay electricity token :("	1	Negative
+2584	It doesnt work	"Pls update for iOs 9:(((( 
+And fix the bugs"	1	Negative
+2585	Old token bug ?	It doesnt work .. It says old token problem.	1	Negative
+2586	New design	New design. Please.	3	Neutral
+2587	Efek Upgrade	"Gimana sie ini.. Abis upgrade ke versi terbaru malah gak bs dpake aplikasinya. Tiap dibuka lgsung nutup aplikasinya. Padahal saya aktif pake m-banking...
+Merepotkan saja..."	1	Negative
+2588	Error M comerence	Untuk isi pulsa PLN error tolong di perbaiki sudah reinstall tetap ga bisa	3	Negative
+2589	Everything work flawlessly	If you guys have some trouble, just reinstall it	5	Neutral
+2590	Crash	"Tdk bisa di pkai, setelah update,, gak bisa masuk alias tdk bisa di gunakan,,
+Update lagi please
+ios 6.1.6
+Thx"	1	Negative
+2591	Crash !!!!!	Habis update langsung nutup tiap baru dibuka. Ngacooo !! :(	1	Negative
+2592	Eror	Habis update malah eror, m commerce gak bisa dipakai??????????	1	Negative
+2593	Update baru menyebalkan	Bca buat update terbaru sangat menyebalkan, tidak dapat di gunakan. Aplikasi update baru lagi. Cape hati lah	1	Negative
+2594	Tidak stabil	"Setelah saya update ke versi terbaru, aplikasi tidak berjalan baik. Aplikasi langsung mental/tertutup saat digunakan.
+Mohon update perbaikan masalah ini.
+Saya jadi tidak bisa melakukan apa-apa dengan aplikasi ini.
+Sangat menyebalkan."	1	Negative
+2595	Bagus	"Sejak kapan bro.... ?
+Ada iOS 9...?
+Sekarang aja iOS 8.4
+Jadi orang jangan ngawur....
+BCA M-banking salut deh aplikasi yang bagus ^_^"	5	Negative
+2597	Gini caranya aktivasi nomor ATM!	"Thanks untuk yg posting cara registrasi nomor kartu ATM! Repost: Caranya adalah pastikan Date/Time iPhone diset ke &#34;24 Hours&#34; (jangan pake AM/PM, ga akan berhasil!), yg kedua setel Messages ke &#34;Send as SMS&#34;. VOILA! Sekali kirim langsung bisa aktif tanpa ada lagi pesan menjengkelkan &#34;YOUR INTERNET IS DISCONNECTED&#34;!!! Cheers :)
+
+Please inform this to your customer, BCA."	5	Positive
+2598	Bagian bawah rada blur	Kurang bagus tampilan nya pak,,update dong tambahkan avatar di menu admin nya tq..	3	Negative
+2599	yey it works on IOS 8.1.1	terimakasih yang telah memberikan langkah2 agar M-bca bisa dipakai kembali	5	Positive
+2600	Setting ios 8	Kemaren ada masalah saat verifikasi, ini solusinya: setting/message/ send as sms ON kemudian setting date and time : 24 hours. Kemudian reinstall aplikasinya.	5	Neutral
+2601	Registrasi gagal	Setelah upgrade ke ios 8, registrasi ke mbca selalu gagal dgn alasan koneksi terputus. Koneksinya padahal kenceng. Udah dicoba berkali2 dan halobca jg ga membantu byk. Harap segera di update	1	Negative
+2602	IOS 8.1 masih ada yg gagal	Semua udah bagus,tetapi menu M admin hapus daftar transfer antar bank, aplikasi langsung close. Tolong perbaiki menu ini karna penting buat user	5	Positive
+2604	berfungsi dengan baik	bca mobile sekarang sudah bisa jalan lagi di iOS 8. yay! terima kasih bca sudah memperbaiki app ini. sangat membantu sekali! ??	5	Positive
+2606	IOS 8 tidak bisa….	IOS 8 tidak bisa pakai mBCA…. Update please….	3	Negative
+2607	Blm support iOs 8.0.2	Setelah sms tdk ada kelanjutannya.	3	Negative
+2608	registrasi gagal	gagal di ios 8.0.2	3	Negative
+2609	M-BCA	M-Bcanya gak bisa di pakai	1	Negative
+2610	No ios8 support,slow update	"Hello bca, mana update buat iOS 8 nya?
+
+Sudah lebih dari 1 bulan sejak iOS 8 release, malah udah keluar 2x major fix, mana nih bca?"	1	Negative
+2611	Iphone 6 tidak bisa aktivasi	Tidak bisa aktivasi di iphone 6, kembali input atm no terus,	1	Negative
+2612	failed iOS 8	aplikasi ini maintenance nya ga diurusin ya? di iOS 8 kok ga bisa?	3	Negative
+2613	Error di iOS 8	Install di iOS 7 lancar dan bagus, setelah upgrade ke iOS 8 gak bisa register ulang. Berhenti di pengisian no atm... Mohon di perbaiki	1	Negative
+2615	Diupdate donk!!!!!!!!!	Diupdate donk!!!!!!!!! Gembel banget bank gede buat aplikasi murahan!!!	1	Negative
+2616	doesnt work with iOS 8	ada lagi yang punya masalah ini? kemarin pake iOS 7 kok lancar ya, begitu update iOS 8 kok malah gabisa dipake. tolong diperbaiki	2	Negative
+2617	Plain User Interface	Great app! Sangat mudah dipakai dan sekarang ke mana-mana bisa transaksi langsung dari HP, sekarang permasalahannya adalah, mungkin User Interfacenya bisa diupdate lagi, layout yang lebih fresh dan lebih clean, akan lebih menarik user lainnya untuk mencoba m-bca. Ditunggu update-an nya.	4	Positive
+2618	Daftar M-Banking dulu	"Buat yg mau pakai aplikasi ini untuk memanfaatkan fasilitas m-banking, caranya daftar m-banking dulu via atm. Jangan lupa juga, kartu yg di pakai dari tiga operator besar aja yg di dukung kayaknya, telkomsel, indosat dan xl
+
+Selamat mencoba"	5	Positive
+2619	BCA payah!	Udah masukin berkali-kali nomor kartu atm, tetep koneksi terputus. Saya kira aplikasinya crush pas saya download, saya hapus dan saya download lagi, ternyata sama aja. Telepon costumer service malah nggak ngebantu, disuruh download di link yg disebutih? Hallo?! Bukannya sama aja ya? Dari apple mau dikasih link apapun, ya download segala tetek bengeknya ya di appstore! M-BCA Berak dikaleng aja dulu yg bener!	5	Negative
+2620	app masih jelek	cuma bisa liat saldo sama mutasi rekening doang. M transfernya sering gagal. tolong diperbaiki lagi servicenya	1	Negative
+2621	Awesome!	Aplikasi paling membantu nih transaksi ga pake pulsa lagi. Cepat dan mudah. Yg jelek2in paling cuma awam gaptek. ????????	5	Positive
+2622	Update and fix bugs please!	"Awal - awal sih, normal it&#39;s ok lah.. Lah lama kelamaan.. Jadi gak bisa. Indikator ijonya gak bisa muncul mentok d warna biru. Kiranya team developer bca bisa memperbaiki bugs yg ada di iphone ini khususnya ios 7, jadi harap selalu update."	3	Negative
+2623	sangat membantu	"pada awalnya memang mendapatkan kendala buat verifikasi, hingga akhirnya telp haloBCA trus diarahkan caranya dan berhasilnya, intinya jangan males, kalau memang gagal coba hubungin haloBCA ato dtg ke cabang BCA terdekat.. 
+
+Minusnya tidak bs transaksi diatas jam 9 mlm, kalaupun kita coba tetap terakumulasi di hari esoknya, harapannya bisa transaksi 24jam jd kalo tengah mlm tidak hrs repot nyari atm.."	5	Negative
+2624	Gak nyangka beneran jelek	"Hahaa... Baca review-nya sih banyak bilang jelek. Abis buka rekening, karena excited trus cobain... Lha, nggak nyangka ternyata beneran jelek. Verifikasi nggak pernah berhasil. Internet putus darimana? Mpe biji lengket juga gak bisa.
+
+Update terakhir 8 July 2013. Berarti selama ini keluhan konsumen nggak dianggap donk? Masa sekelas BCA gak bisa hire iOS developer untuk upgrade ini app?!?
+
+Itu lagi buat apa animasi splash screen-nya? Bikin lama start. Ukuran file app ini 6 MiB. Jangan-jangan cuma video splash screen itu aja udah 4 MiB.
+
+Didalamnya ada Info BCA. Pas di-tap ternyata download app lain lagi. Kenapa nggak digabung aja?
+
+Website KlikBCA-nya jelek bikin sakit mata, lhaa... app-nya juga jelek. Hire lah orang yang mengerti UI/UX. Anggarkan dana khusus untuk yang ginian."	1	Negative
+2625	FIX IT	Selalu gagal registrasi bca mobile,koneksi internet terputus, tolong perbaiki,terll bnyk bugs! Thanks	1	Negative
+2626	Berguna	"Jika gagal coba install ulang,delete aplikasinya,install ulang restart coba lagi,jika tidak berhasil juga, ya mau tidak mau pergi ke cabang bca terdekat..??
+
+If you failed,try to reinstall the applications, reboot before you use it..
+Hope this useful.."	4	Negative
+2627	Bad	Sudah masukin no. Atm ribuan kali muncul notif koneksi terputus. Coba pake wifi nunggu lama sama aja muncul notif  koneksi terputus. Solusinya gmn dong?	1	Negative
+2629	gak bisa buat iphone 4s?	"koneksi internet anda terputus. silahkan ulangi sekali lagi..sudah ratusan x masukin nomor ATM-send sms-ujung2 nya tetep ajah koneksi internet anda terputus terus..
+atau karena providernya harus provider tertentu??"	1	Negative
+2630	Andre	Mau registrasi koq dibilang koneksi internet putus melulu…. :(	1	Negative
+2631	Koneksi putus saat pendaftaran.	kenapa koneksi putus kalo baru masukin No ATM deh, gimana mau m-banking bro	1	Negative
+2632	Bagus	Thanks BCA buat aplikasi nya di iPhone! Udah bagus sih ! Cuman ya lebih di bagusin aja aplikasi perbankan BCA nya ini /  upgrade buat fitur2 tambahan yg laen nya	4	Positive
+2633	Great Apps	Sangat membantu sekali, trims BCA	4	Positive
+2635	Gr8	Berjalan lancar. Ios 6 iphone 5 ??	5	Positive
+2636	Ios 6 eror	Untuk di ios 6 sepertinya nda bisa dipakai yah?	1	Negative
+2638	Belum bisa aktifasi	Sampai sekarang saya masih belum bisa aktifasi di iphone 5 ios 6.1.2 tolong dibantu	2	Neutral
+2639	Good Job	Semua berjalan lancar seperti yang di inginkan. Keep up the good work	5	Positive
+2640	Ios 6 error aktivasi	Aplikasi ini berjalan normal di ios 5 tetapi setelah update ke ios 6 aplikasi ini tidak berjalan normal, proses aktivasinya tidak berjalan normal.	1	Positive
+2641	mantaap bca	appnya lancar jaya dan kencang	5	Positive
+2642	Good job BCA!	Terima kasih sudah membuat aplikasi ini berjalan dengan sangat baik. Mudah2an kedepannya makin banyak review baik seperti dari saya.	5	Positive
+2643	Poor, very.	Kepada pihak developer, mohon agar aplikasi ini di rombak kembali agar dapat berfungsi dengan baik dan bermanfaat bagi masyarakat. Terima kasih.	1	Positive
+2644	???	"Dikira ud terintegrated semua nya. Gk tau nya cuma hyperlink aja. Di klik lari ke browser. Useless pieces of junk apps :thumbsdown: 
+Buat apa iklan gede2an klo app nya cuma kyk gini??"	1	Negative
+2645	Aplikasi cacat!!!	"Beginilah kalau kerja enggak ada kesungguhan hati dan hanya buat gaya2an!
+Pulsa habis terus transaksi gagal total!
+Mendingan dulu diurus orang turunan cina, beres semua!"	1	Negative
+2646	Ndak berguna	"Hadeeh..
+Capek capek donlot ternyata lari nya ke safari juga.
+Ngabisin bandwith doank!!
+Aplikasi cacad"	1	Negative
+2647	Useless	This app is rubbish! Always failed to connect to network during the initial verification and the KlikBCA service is just a link to Safari browser. Practically useless.	1	Negative
+2648	Perlu di update !!	SMS nya (yang di Inbox) ga bisa dicopy, di iPhone 5 iOS 6.0.2	3	Negative
+2649	No good is bad	Apa-apn nih aplikasi CACAD!!! Kl masih setengah2 jng bikin aplikasi	1	Negative
+2650	Gak bisa daftar	"Mau daftar kok internet putus mulu
+Payah nech."	1	Negative
+2651	Aplikasi perbankan terburuk!!	"Apa-an nih.. Aktifasi luama sekali
+Ulang suruh isi no atm lagi bolak balik 5x pulsa terkuras gagal mulu!!!!
+Udah gitu internet bangkongnya cuman launcher gak ada bedanya sama bookmark!!! Kalau belim siap gini mending jangan di launch dulu dehh!! KECEWA!!!!"	1	Negative
+2653	Klikbca	Maunya kalo nasabah pke klikbca lgsg dari aplikasinya jgn ditransfer lg ke safari utk buka. Sama aja bohong kalo gitu. Mending di bookmark aja klikbca beres tinggal buka kapanpun mau	3	Negative
+2654	Game	Gamenya bagus dan sangat menantang	5	Positive
+2655	remove ads	dev please remove adsnya sering kepencet rusuh	4	Positive
+2656	My Favorite game all the time :)	"FB Martha Dewix
+suka banget ma game ini karena melatih otak dan menantang :)"	5	Positive
+2658	spectacular	gokil bangetz ne game.., bener2 ne otak dibuat mikir buat nebak jawabannya.. asli seru, HARUS DOWNLOAD, recommended buangetzzzzz.... haha..	5	Positive
+2659	Fin	"&#34;Wajah kusam polisi sirik berdarah ditabrak tukang becak amatir&#34; next plis!!"	5	Negative
+2660	SIPPPP!!!!!	aplikasi jancok ya ini dah, bikin gk berhenti mainnya. mantaplah!!!!	5	Positive
+2661	Lama di tunggu	"Akhirnya muncul juga di iOS, game kayak gini nih yang bikin nalar &amp; logika kita jalan. Good job gan. Makasih yahh...."	5	Positive
+2662	Untuk Indonesia	Mantap	5	Positive
+2663	Welldone :)	menarik game nya , lumayan buat penghilang bete kalo lagi nunggu / jenuh , maju terus developer tanah air	5	Positive
+2664	Mesti rajin di update	Ada beberapa yang masi celah kosong. Mesti rajin update patch.	1	Neutral
+2668	perkaya majalah	tambahin donk majalah berwawasan petani sperti TRUBUS, dll	5	Neutral
+2669	Seharusnya jadi sangat bagus	Akan jadi bagus dan pantas mendapat 5 bintang jika tidak force quit atau quit sendiri. Cara membeli buku/majalah sudah bagus, tidak seperti Scoop yang harus jadi member dulu, tapi ketika daftar error. Hanya saja sayangnya sering quit sendiri di iPad 1. Baru tengah2 membaca, tiba2 quit. Sekarang sama sekali tidak bisa dibuka aplikasinya di iPad1, ketika muncul logo wayang force, langsung force quit. Mungkin ada baiknya dijelaskan di awal bahwa iPad1 sudah tidak bisa disupport aplikasi ini, sehingga pelanggan tidak harus kehilangan uang, sudah membayar majalah tapi tidak bisa membacanya. Saat ini saya terpaksa membeli majalah fisik karena majalah2 yang sudah saya beli di wayang force tidak bisa lagi dibaca karena aplikasinya forced quit.	3	Negative
+2671	Bagus tapi..	"Tolong beri catatan sudah terbeli apabila kita sudah beli app d 1 iDevices dan kita hendak download d iDevices lainnya,
+Buat animasi baru dong utk perpindahan halaman"	3	Negative
+2673	3 stars	masih banyak perbaikan, suka crush. dan buku + majalah masih perlu ditambah	3	Negative
+2675	Asik	Gw demen in aps,,, makasih sm yg bikin u my hero my friend...	5	Positive
+2676	cukup tapi kurang	layout cukup bagus, koleksi banyak. cuma kenyamanan membaca kurang nih. blur jika perpindahan per-halaman. dan tidak bisa membaca dalam mode wide screen.	2	Negative
+2677	Komplitttt	"Paperless &amp; go green pastinya"	5	Positive
+2678	top	"update trs ya biar bnyk pilihan ;)"	5	Neutral
+2679	Top app	Aplikasi bagus untuk majalah,buku yg original bikinan indonesia.	4	Positive
+2680	Mantappp	Bagus!	5	Positive
+2681	Quite Nice	Sometimes it crash and force close..	3	Negative
+2682	Review	Keren banget, lebih keren kalo koleksi majalahnya ditambah	5	Positive
+2684	Keren	Ini baru aplikasi ebook yg plg bagus buat org indo	5	Positive
+2686	Bucek	Bagus kok	4	Positive
+2688	keeerreeeeenn abizzzz ....	"keren abiz neh software thank&#39;s banget yaa wayang force udh ngilangin BT gw hehehe..."	5	Positive
+2689	Bored killer	Mengisi waktu luang dengan membaca..why not?	5	Positive
+2691	Senang ketemu cersil	"Senang sih, lumayan lah....tapi buat majalah kadang mahal juga ya.
+Buat pelipur rindu...tho Aku beli juga..hahaha"	4	Positive
+2694	Apik	Puas pake app ini	5	Positive
+2695	Cakep	Koleksinya lengkap. Tidak perlu capek2 ke toko buku. Beli online saja dijamin lengkap	4	Positive
+2696	Wayang force	One of the best online mag. Easy to use and very helpful. Salut to wayang force.	3	Positive
+2698	retina display	aplikasi yang bagus sekali. obat kangen untuk baca koran dan majalah indonesia. sayang, belum dilengkapi retina display untuk ipad terbaru.	4	Positive
+2699	Siiip	Bagus aplikasinya...	5	Positive
+2700	Great Apps	"Luar biasa aplikasi ini, koran gratis, majalah lama gratis, update cepat, harga kompetitif !
+Kekurangannya 1 : kurang banyak untuk segmen majalah tertentu"	4	Positive
+2701	Good	Five star for u,,,but have to be more good next time	5	Positive
+2702	Sering ngehang	Sering ngehang	3	Negative
+2703	Applikasi lokal yang bagus...	"Fitur-fitur yang mudah digunakan, UI yang menarik. 
+Free Neutral Newspaper. (Ide brilian dengan tidak membawa media yang condong ke salah satu parpol.)
+Mempublikasikan karya2 anak bangsa. (Ada komik pendek gratis buatan komikus indonesia)
+Menurut gw, ini salah satu app reader lokal yang lebih baik daripada yang lain.
+
+Tapi gw kasi 4 bintang aja, 1 bintangnya lagi bisa berkembang...
+
+Saran...
+- Pembagian kategori diperbaiki. Biar gak terlalu banyak...
+
+Saya turunin jadi bintang 3. Udah seminggu lebih koran sindo tidak di update...
+Udah coba install ulang app. Tapi masih gak ada update..."	3	Positive
+2708	Great apps!	"Bagus! Sangat bagus untuk teman baca, tapi ada beberapa masukan lagi..
+Untuk beberapa waktu lalu, kita harus download ulang, sehingga tidak praktis terutama untuk yang koneksi nya kurang cepat.
+Saya harus men-download ulang banyak majalah dan ini benar-benar sangat membosankan menunggu lagi untuk waktu yang lama. Tentang sorting majalah, saya berharap bisa mencari khusus majalah free saja dan belom ada untuk sorting menurut harga.
+Loading majalah di library termasuk agak lama, saya punya 15 halaman rak dan tiap saya menggeser 1 halaman, tanda di bawah tidak ikut bergeser, mungkin ini bug atau apa, entahlah. Saya berharap kalian bisa memperbaikinya."	4	Positive
+2709	Slow download	"Hal yang baik :
+1. Ide pembuatan aplikasi bagus
+2. Content yang cukup
+3. Surat kabar gratis
+
+Kekurangan :
+1. Download yang lama
+2. Download menjadi lebih lama ketika membuka aplikasi yang lain dalam waktu yang bersamaan
+3. surat kabar hanya satu tanpa option
+4.surat kabar yang menonjolkan tokoh tertentu untuk kepentingan publikasi
+5. Katalog untuk buku sangat terbatas"	3	Positive
+2710	(?? ??)	I like this app	5	Positive
+2711	wayang force	excelent app	5	Positive
+2712	Great	Great!	5	Positive
+2713	Amazing	Amazing ...	5	Positive
+2714	download ulang semua isi library..	tampilan baru lumayan tapi isi library lama tidak terbaca. Jadi harus download ulang semua, memang tidak bayar lagi sih tapiii kalo ada puluhan yg mesti di download ulang ya buang2 waktu lah..tolong di perhatikan lagi kalo bikin update tu yg simple buat user..kan kita beli juga ga cuman download yg gratisan doang.	2	Negative
+2715	Server Error	Uda di click purchase magazine pake apps ini di iPad gw, trus waktu ngeload bilangnya Server Error mulu, kirain mungkin operatornya GSM nya yg lagi error, keesokan nya coba lagi eh sama juga, dah ganti ke Wifi, eh sama juga, hari ketika coba lagi, eh sama lagi...akhirnya gw delete, cape deh...tolong donk diperbaiki, Apps yg secara teori fungsi bagus banget, tapi prakteknya mengecewakan.	1	Negative
+2716	Just ok	"Cm ok gw blg, krn ngeloadnya cukup lama dr page ke page yg lain, dan namanya knp hrs wayang force? Apa tidak ada nama yg lebih menarik.
+
+Layout cukup ok lah cm klo bs di tambahin lg majalah2nya krn yg skr hanya sedikit sekali"	3	Negative
+2717	Awesome	This app is really awesome	5	Positive
+2718	Best movie app	Cepat dan gampang dipakai	5	Positive
+2720	Cukup Puas	"Untuk hari pertama saya memasang aplikasi ini, saya lantas merasa puas. User Interface yang seperti kebanyakan aplikasi pencari informasi tentang Film lain, memudahkan penggunaan. Desain yang &#34;bersih&#34; dan &#34;elegant&#34;.
+Mudah2n &#34;Mata2&#34; dapat terus berkembang, hingga bisa menerapkan sistem beli tiket online."	3	Positive
+2721	5 jempol	mantap dah update-an nya????	5	Positive
+2722	KEREN!!!!	GUNA BANGET BUAT LIAT JADWAL BIOSKOP, TNYT MOVREAK YG BAYAR AJA MSH KALAH KEREN SAMA APPS MATA2.. KERENN!!!!!	5	Positive
+2723	Ga bisa beli tiket online	Payah bgt cuma bs liat jadwal. Tp ga bisa beli tiket online.	1	Negative
+2724	Download ittt!!	"This is actually a really good app! I&#39;m quite surprised that no reviews have been made for this app. Everything works fine and up to date.. Shows the movie synopsis and at the bottom where it is playing at your current city! Awesome. Download!"	5	Positive
+2725	Cool app	Mantap neh app biar tau apa aja yg tayang film nya	5	Positive
+2726	Useful	"Very nice app
+Tob bangget!"	5	Positive
+2727	Best movie app	Cepat dan gampang dipakai	5	Positive
+2729	Cukup Puas	"Untuk hari pertama saya memasang aplikasi ini, saya lantas merasa puas. User Interface yang seperti kebanyakan aplikasi pencari informasi tentang Film lain, memudahkan penggunaan. Desain yang &#34;bersih&#34; dan &#34;elegant&#34;.
+Mudah2n &#34;Mata2&#34; dapat terus berkembang, hingga bisa menerapkan sistem beli tiket online."	3	Positive
+2730	5 jempol	mantap dah update-an nya????	5	Positive
+2731	KEREN!!!!	GUNA BANGET BUAT LIAT JADWAL BIOSKOP, TNYT MOVREAK YG BAYAR AJA MSH KALAH KEREN SAMA APPS MATA2.. KERENN!!!!!	5	Positive
+2732	Ga bisa beli tiket online	Payah bgt cuma bs liat jadwal. Tp ga bisa beli tiket online.	1	Negative
+2734	Cool app	Mantap neh app biar tau apa aja yg tayang film nya	5	Positive
+2735	Useful	"Very nice app
+Tob bangget!"	5	Positive
+2738	Worse	"Worse, always ask id/pass each open the apps.
+
+No new feature, just rebranding to new name, not worth to update IMHO"	1	Negative
+2739	Indosat tidak seperti dulu lg..	paket kuota tambah mahal, mahal, dan skrg lebih mahal lg...tricknya masukin paket super wifi biar terlihat besar kuota yang diberikan.. padahal? tai.. appsnya dari dulu ga ada perkembangan.. fitur sms via apps ga pernah didenger jadi kalo pakai ipad mau isi paket ribet.. anda sebagai programer yang bodoh dan tolol ato indosatnya yang payah? absolutly JOKE!	1	Negative
+2740	App crash di iphone 6 ios 8.	Aplikasinya crash di iphone 6, ios 8. Tolong diperbaiki	1	Negative
+2741	Force close	"iOS 8.1.1 Force Close
+mohon diperbaiki bug nya pak ??"	1	Negative
+2744	Update Eror	"Setelah diupate kok malah nggak bisa dipakai ??
+(iPhone 4s)"	1	Negative
+2745	Aplikasi yg bermanfaat	Aplikasi ini bagus sangat informatif, tapi masih ada bugsnya di informasi soal kuota sisa kuota masih tumpang tindih kena ke gambar quota yg lainya bertabrakan, tapi yg lainya sudah OK!	4	Positive
+2746	Sangat bermanfaat..	Aplikasi ini sangat membantu, diharapkan ke depannya bisa lebih up to date dan user friendly...	4	Positive
+2747	Terima Kasih :)	woww...aplikasinya sangat informatif, kenapa ga dari dulu diluncurkan aplikasi ini :D	5	Positive
+2748	Mempermudah	Dengan adanya aplikasi padiciti sangat mempermudah pengguna kereta api untuk pemesanan tiket dan yang paling saya sukai dari padiciti custumer dapat melakukan pre order, waiting list dan pindah kursi sesuai keinginan dimana saja dan kapan saja tanpa harus melalui custumer service kai atopun dtg ke loket pemesanan.	5	Positive
+2749	Good app	Sudah cukup baik, tapi masih ada bug ketika memilih kursi kereta ada beberapa kursi yg gak bisa dipilih padahal kursinya kosong.	4	Positive
+2750	bug in iOS 6.1.3	"can&#39;t open after update the latest version of paditrain"	1	Negative
+2753	keep a good work guys	useful for travelers..rekomen bgt buat yg suka pake kereta nih??????	5	Positive
+2756	Ga recommend	Setelah daftar, akun ga bisa dibuka. Password salah. Diklik lupa password ga bs. Ga recommend banget	1	Negative
+2757	Usul	"Aplikasi yg sangat membantu, ada beberapa usul;
+1. Option bank/ATM terdekat
+2. User bisa menambahkan info juga, sehingga database aplikasi ini jadi lebih kaya dan up to date."	3	Positive
+2758	Mantap!	Keren gan. Update terus agar lebih lengkap.	5	Positive
+2759	All in one app	Applikasi yang sangat berguna untuk aktifitas sehari-hari.	5	Positive
+2760	Lumayan	Bagus juga, jadi mudah nyari tempat dan simple. UI-nya juga bagus dan gampang digunakan. Tapi sayang lama nge-lock location-nya.	4	Positive
+2761	Versi barunya bagus!	Banyak kemajuan dengan versi barunya, job well done! Selamat!	5	Positive
